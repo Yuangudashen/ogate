@@ -1,8 +1,8 @@
 ﻿<table>
   <tr></tr>
-  <tr><td colspan=2 align=center><img src="https://d1v72hvnhb7rh2.cloudfront.net/Up/oGate.jpg" /></td></tr>
+  <tr><td colspan=2 align=center><img src="https://d6ie68g42lqq7.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
-<br>https://d1v72hvnhb7rh2.cloudfront.net
+<br>https://d6ie68g42lqq7.cloudfront.net
 <br/>
 <br>https://d3bbqdlvgjtf09.cloudfront.net
 <br>https://d2qzge6z0zsviq.cloudfront.net
@@ -20,6 +20,7 @@
 <br>https://d2ddsmvasbms4d.cloudfront.net
 <br>https://d1ae8l36zou230.cloudfront.net
 <br>https://dv2u6lp3e89uo.cloudfront.net
+<br>https://d1v72hvnhb7rh2.cloudfront.net
     </td>
   </tr>
 </table>
