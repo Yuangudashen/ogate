@@ -20,6 +20,7 @@
 <br>https://daq2mrqpgrijn.cloudfront.net
 <br>https://dtz23li5zpx5j.cloudfront.net
 <br>https://d3qbvs83259y7n.cloudfront.net
+<br>https://d214m2r8z6wfo4.cloudfront.net
     </td>
   </tr>
 </table>
