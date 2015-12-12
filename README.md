@@ -1,8 +1,8 @@
 ﻿<table>
   <tr></tr>
-  <tr><td colspan=2 align=center><img src="https://d3sd3lhbnw3wvh.cloudfront.net/Up/oGate.jpg" /></td></tr>
+  <tr><td colspan=2 align=center><img src="https://dg582fh8sievy.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
-<br>https://d3sd3lhbnw3wvh.cloudfront.net
+<br>https://dg582fh8sievy.cloudfront.net
 <br/><br/>(以下网址可能失效)
 <br>https://df9gdbts4gr29.cloudfront.net
 <br>https://d2qa1goow5chds.cloudfront.net
@@ -18,6 +18,7 @@
 <br>https://d27fp3i6r8txx3.cloudfront.net
 <br>https://dtb8eocsz7tpw.cloudfront.net
 <br>https://d3v1uqh3xfoe5.cloudfront.net
+<br>https://d3sd3lhbnw3wvh.cloudfront.net
     </td>
   </tr>
 </table>
