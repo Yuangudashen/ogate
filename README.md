@@ -1,9 +1,10 @@
 ﻿<table>
   <tr></tr>
-  <tr><td colspan=2 align=center><img src="https://d6obp6qr4qafc.cloudfront.net/Up/oGate.jpg" /></td></tr>
+  <tr><td colspan=2 align=center><img src="https://d1a2t7fq5kge7g.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
-<br>https://d6obp6qr4qafc.cloudfront.net
+<br>https://d1a2t7fq5kge7g.cloudfront.net
 <br/><br/>(以下网址可能失效)
+<br>https://d6obp6qr4qafc.cloudfront.net
     </td>
   </tr>
 </table>
