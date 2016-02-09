@@ -4,23 +4,6 @@
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
 <br>https://d3u0ural6vgipe.cloudfront.net
 <br/><br/>(以下网址可能失效)
-<br>https://d3qr6lupdqqff4.cloudfront.net
-<br>https://d2pon5ncgghl7s.cloudfront.net
-<br>https://d1c9377gq086mm.cloudfront.net
-<br>https://d1hf8g7ogb06ul.cloudfront.net
-<br>https://d1cee5qkndykp7.cloudfront.net
-<br>https://d3hhffgbyo8064.cloudfront.net
-<br>https://d6tg9gieqs8ge.cloudfront.net
-<br>https://d3kekhgswmzkg7.cloudfront.net
-<br>https://d1460wld4ivkyb.cloudfront.net
-<br>https://d1hip8b6j7rf5u.cloudfront.net
-<br>https://d1zdh3sn1oiogm.cloudfront.net
-<br>https://doxva11pttaic.cloudfront.net
-<br>https://dvf5baqlyw4et.cloudfront.net
-<br>https://d1b4zhnz9wnm2c.cloudfront.net
-<br>https://d110qnvqpxna7b.cloudfront.net
-<br>https://d1ue2o5iidg1op.cloudfront.net
-<br>https://dlatlwm9c377h.cloudfront.net
     </td>
   </tr>
 </table>
