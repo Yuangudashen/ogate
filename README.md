@@ -1,12 +1,13 @@
 ﻿<table>
   <tr></tr>
-  <tr><td colspan=2 align=center><img src="https://d1k0lfipa7lnh7.cloudfront.net/Up/oGate.jpg" /></td></tr>
+  <tr><td colspan=2 align=center><img src="https://d2iu43puo5lgs9.cloudfront.net/Up/oGate.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门动态网址<br/>(最新)
-<br>https://d1k0lfipa7lnh7.cloudfront.net
+<br>https://d2iu43puo5lgs9.cloudfront.net
 <br/><br/>(以下网址可能失效)
 <br>https://d2h16hjs0kd4dp.cloudfront.net
 <br>https://d1n581abij86il.cloudfront.net
 <br>https://d3mwenlyh8w06d.cloudfront.net
+<br>https://d1k0lfipa7lnh7.cloudfront.net
     </td>
   </tr>
 </table>
