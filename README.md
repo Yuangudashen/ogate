@@ -62,8 +62,8 @@
     <td><a href="https://d89hjrmk2j3pv.cloudfront.net/onUP.aspx?name=https://d240ns8up8earz.cloudfront.net/acenter/" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0TDW.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d89hjrmk2j3pv.cloudfront.net/onUP.aspx?name=https://d3bxwq7vzudb5l.cloudfront.net/gb/nsc413.htm" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0DJY.jpg" /></a></td>
-    <td><a href="https://d89hjrmk2j3pv.cloudfront.net/onUP.aspx?name=https://d1tlrgbvenbuq4.cloudfront.net/xtr/gb/prog204.html" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0XTR.jpg" /></a></td>
+    <td><a href="https://d89hjrmk2j3pv.cloudfront.net/onUP.aspx?name=https://d3uf0edekzvej0.cloudfront.net/gb/nsc413.htm" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0DJY.jpg" /></a></td>
+    <td><a href="https://d89hjrmk2j3pv.cloudfront.net/onUP.aspx?name=https://d3bxwq7vzudb5l.cloudfront.net/xtr/gb/prog204.html" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0XTR.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d89hjrmk2j3pv.cloudfront.net/onUP.aspx?name=https://d3aj00iefsmfgc.cloudfront.net/" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0MHW.jpg" /></a></td>
