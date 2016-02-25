@@ -19,8 +19,8 @@
     <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=LRSH.mp4&count=W:13,2:10" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/LRSH.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img class="imgog" src="https://d2yv3nuheckuvs.cloudfront.net/Up/JQR.jpg" /></a></td>   
-    <td rowspan=2><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img class="imgog" src="https://d2yv3nuheckuvs.cloudfront.net/Up/JP.jpg" /></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/JQR.jpg" /></a></td>   
+    <td rowspan=2><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/JP.jpg" /></td>
   </tr>
   <tr>
     <td><div><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:7,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:7" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/LRWS.jpg" /></a></td>
@@ -44,6 +44,55 @@
   <tr>
     <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=10JGY.mp4&count=3" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/10JGY0.jpg" /></a></td>
     <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=10CYS.mp4&count=2" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/10CYS0.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201602:17,201601:21&current=201602:17" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201602:23,201601:28&current=201602:23" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201602:17,201601:23&current=201602:17" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/4SZG0.jpg"/></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201602A:21,201602B:5,201601A:48,201601B:6&current=201602A:21" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4CTX.mp4&count=201602:3,201601:4&current=201602:3" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/4CTX0.jpg"/></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4CWZ.mp4&count=201602:3,201601:4&current=201602:3" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/4CWZ0.jpg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/onUP.aspx?name=https://d1illeks2p8p8f.cloudfront.net/" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/onUP.aspx?name=https://d240ns8up8earz.cloudfront.net/acenter/" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0TDW.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/onUP.aspx?name=https://d3uf0edekzvej0.cloudfront.net/gb/nsc413.htm" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0DJY.jpg" /></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/onUP.aspx?name=https://d1tlrgbvenbuq4.cloudfront.net/xtr/gb/prog204.html" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0XTR.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/onUP.aspx?name=https://d3aj00iefsmfgc.cloudfront.net/" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0MHW.jpg" /></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/onUP.aspx?name=https://d1lcj91uv80klr.cloudfront.net/" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0ZJW.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=0FG.zip" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0FG.jpg" /></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=0FGA.apk" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0FGA.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=0U.zip" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0U.jpg" /></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=0UA.apk" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0UA.jpg" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=0iPPOTV.zip" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0iPPOTV.jpg" /></a></td>
+    <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=0iNTD.apk" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/0iNTD.jpg" /></a></td>
+  </tr>
+  <tr height="20"></tr>
+  <tr>
+    <td colspan=2 align=center>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">* 更新《自由中国》预告片</a><br>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">更新《血刃》预告片</a><br>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">更新《难以置信》预告片</a><br>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=1WWY.mp4&count=6&current=6" target="_blank">更新《王为宇·我们的故事》第3集</a><br>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=LZWW.mp4" target="_blank">更新《润泽万物 化育人心》</a><br>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">更新《国安李凤智公开退党》</a><br>
+      <a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">更新《大地震后的沉思》</a><br>
+      更新涛哥侃电影（网粹）<br>      
+    </td>
   </tr>
   <tr>
     <td colspan=2 align=center>(以下网址可能失效)
