@@ -46,7 +46,7 @@
     <td><a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=10CYS.mp4&count=2" target="_blank"><img src="https://d7zudprx9vft6.cloudfront.net/Up/10CYS0.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201602:17,201601:21&current=201602:17" target="_blank"><img src="https://d7zudprx9vft6.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
+    <td><a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201602:18,201601:21&current=201602:18" target="_blank"><img src="https://d7zudprx9vft6.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
     <td><a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201602:23,201601:28&current=201602:23" target="_blank"><img src="https://d7zudprx9vft6.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
@@ -82,17 +82,17 @@
     <td><a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=0iNTD.apk" target="_blank"><img src="https://d7zudprx9vft6.cloudfront.net/Up/0iNTD.jpg" /></a></td>
   </tr>
   <tr>
-    <td colspan=2 align=center>
-      更新《全球新闻》24日、《环球直击》25日<br>
-      更新《中国禁闻》25日、《今日点击》25日<br>
-      更新《天笑快评》22日、《文昭解读》22日<br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">更新《自由中国》预告片</a><br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">更新《血刃》预告片</a><br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">更新《难以置信》预告片</a><br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=1WWY.mp4&count=6&current=6" target="_blank">更新《王为宇·我们的故事》第3集</a><br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=LZWW.mp4" target="_blank">更新《润泽万物 化育人心》</a><br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">更新《国安李凤智公开退党》</a><br>
-      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">更新《大地震后的沉思》</a><br>
+    <td colspan=2 align=center>更新<br>
+      《全球新闻》25日、《环球直击》25日<br>
+      《中国禁闻》25日、《今日点击》25日<br>
+      《天笑快评》22日、《文昭解读》22日<br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=1WWY.mp4&count=6&current=6" target="_blank">《王为宇·我们的故事》第3集</a><br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=LZWW.mp4" target="_blank">《润泽万物 化育人心》</a><br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
+      <a href="https://d7zudprx9vft6.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       更新涛哥侃电影（网粹）<br>      
     </td>
   </tr>
