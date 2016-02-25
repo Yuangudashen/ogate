@@ -103,24 +103,6 @@
   </tr>
   <tr>
     <td colspan=2 align=center>(以下网址可能失效)
-<br>https://dn3hf0hlwlkdx.cloudfront.net
-<br>https://d2mquvnwf2cvge.cloudfront.net
-<br>https://d2yv3nuheckuvs.cloudfront.net
-<br>https://d89hjrmk2j3pv.cloudfront.net
-<br>https://d35bptugra5pij.cloudfront.net
-<br>https://d1ypap70ybp5ev.cloudfront.net
-<br>https://d7zudprx9vft6.cloudfront.net
-<br>https://d1a3aodg40wb3w.cloudfront.net
-<br>https://d5nfbmsh64288.cloudfront.net
-<br>https://dahylw73hr2q4.cloudfront.net
-<br>https://d1y2wwuw9mpu7m.cloudfront.net
-<br>https://d1l2vbrhora3j7.cloudfront.net
-<br>https://d39s3mxzfj9zad.cloudfront.net
-<br>https://dhhlxa5e22gze.cloudfront.net
-<br>https://d2wcwy0zg0ibz3.cloudfront.net
-<br>https://degztnsivcwsx.cloudfront.net
-<br>https://d312foymq6txp4.cloudfront.net
-<br>https://dwsnns8tzagi7.cloudfront.net
     </td>
   </tr>
 </table>
