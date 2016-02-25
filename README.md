@@ -12,7 +12,8 @@
   <tr>
     <td><a href="https://d2yv3nuheckuvs.cloudfront.net/ogUP.aspx?name=LRSH.mp4&count=W:13,2:10" target="_blank"><img src="https://d2yv3nuheckuvs.cloudfront.net/Up/LRSH.jpg" /></a></td>
   </tr>
-  <tr>(以下网址可能失效)
+  <tr>
+    <td>(以下网址可能失效)
 <br>https://dn3hf0hlwlkdx.cloudfront.net
 <br>https://d2mquvnwf2cvge.cloudfront.net
     </td>
