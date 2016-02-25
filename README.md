@@ -12,7 +12,7 @@
     <td colspan=2 align=center><a href="https://d89hjrmk2j3pv.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
   </tr>
   <tr>
-    <td rowspan=2><a href="https://d89hjrmk2j3pv.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=SP:1,480P:1" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/WJ.jpg" /></a></td>
+    <td rowspan=2><a href="https://d89hjrmk2j3pv.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=480P:1" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/WJ.jpg" /></a></td>
     <td><a href="https://d89hjrmk2j3pv.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=2:4,1:16" target="_blank"><img src="https://d89hjrmk2j3pv.cloudfront.net/Up/11DKC.jpg" /></a></td> 
   </tr>
   <tr>
