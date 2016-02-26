@@ -12,6 +12,10 @@
     <td colspan=2 align=center><a href="https://d1kc8f469qqki2.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://d1kc8f469qqki2.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
   </tr>
   <tr>
+    <td><a href="https://d1kc8f469qqki2.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d1kc8f469qqki2.cloudfront.net/Up/0WCYY.jpg" /></a></td>
+    <td><a href="https://d1kc8f469qqki2.cloudfront.net/onCO.aspx?ob=600%E4%BA%8B%E7%89%A9&op=%E5%A2%9E%E5%88%A0%E6%94%B9&args=WH1~%23%E7%B1%BB%E5%9E%8B6%E6%96%B0%E9%97%BB%7c%23%E7%B1%BB%E5%9E%8B6%E8%AF%84%E8%AE%BA&mode=" target="_blank"><img src="https://d1kc8f469qqki2.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
+  </tr>
+  <tr>
     <td rowspan=2><a href="https://d1kc8f469qqki2.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=480P:1" target="_blank"><img src="https://d1kc8f469qqki2.cloudfront.net/Up/WJ.jpg" /></a></td>
     <td><a href="https://d1kc8f469qqki2.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=2:4,1:16" target="_blank"><img src="https://d1kc8f469qqki2.cloudfront.net/Up/11DKC.jpg" /></a></td> 
   </tr>
