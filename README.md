@@ -6,7 +6,8 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center>网门永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGD2.png"/></a></td>
+    <td align=center>永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGD2.png"/></a></td>
+    <td align=center>临时网址 微信用<br/><a href="https://bit.ly/1mBQHW8" target="_blank">https://bit.ly/1mBQHW8</a><br/><a href="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGD3.png"/></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center><a href="https://d15sdhwa08gm02.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://d15sdhwa08gm02.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
@@ -101,16 +102,16 @@
       <a href="https://d15sdhwa08gm02.cloudfront.net/ogUP.aspx?name=LZWW.mp4" target="_blank">《润泽万物 化育人心》</a><br>
       <a href="https://d15sdhwa08gm02.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://d15sdhwa08gm02.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
-      更新涛哥侃电影（网粹）<br>      
+      更新涛哥侃电影（网粹）<br>
+      <a href="https://d15sdhwa08gm02.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
     </td>
   </tr>
   <tr>
     <td colspan=2 align=center>IE6打开动态网址须在选项中勾选TLS 1.0<br/>IE 6、7、8不支持永久网址<br/>
       微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://d15sdhwa08gm02.cloudfront.net/Up/0WMGD3.png"/></a><br>
-      <a href="https://d15sdhwa08gm02.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
   </tr>
   <tr>
-    <td colspan=2 align=center>(以下网址可能失效)
+    <td colspan=2 align=center>动态网址<br>(以下网址可能失效)
 <br>https://d3uf94yzhanoou.cloudfront.net
 <br>https://d3ly3hzvvb2imy.cloudfront.net
 <br>https://dl1gkkomie22y.cloudfront.net
