@@ -97,9 +97,7 @@
       《天笑快评》22日、《文昭解读》22日<br>
       <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
-      <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
-      <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=1WWY.mp4&count=6&current=6" target="_blank">《王为宇·我们的故事》第3集</a><br>
-      <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=LZWW.mp4" target="_blank">《润泽万物 化育人心》</a><br>
+      <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br><br>
       <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://d3t7fgd2k2tzye.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       更新涛哥侃电影（网粹）<br>
