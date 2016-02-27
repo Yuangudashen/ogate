@@ -55,11 +55,11 @@
     <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=10CYS.mp4&count=2" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/10CYS0.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201602:19,201601:21&current=201602:19" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
+    <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201602:20,201601:21&current=201602:20" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
     <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201602:25,201601:28&current=201602:25" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201602:19,201601:23&current=201602:19" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/4SZG0.jpg"/></a></td>
+    <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201602:20,201601:23&current=201602:20" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/4SZG0.jpg"/></a></td>
     <td><a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201602A:22,201602B:6,201601A:48,201601B:6&current=201602A:22" target="_blank"><img src="https://d1igrqclv7o5je.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
@@ -92,8 +92,8 @@
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
-      《全球新闻》26日、《环球直击》27日<br>
-      《中国禁闻》26日、《今日点击》26日<br>
+      《全球新闻》27日、《环球直击》27日<br>
+      《中国禁闻》27日、《今日点击》26日<br>
       《天笑快评》22日、《文昭解读》22日<br>
       <a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d1igrqclv7o5je.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
