@@ -92,6 +92,7 @@
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
+      <a href="https://d2p8ao6u5q0txs.cloudfront.net/ogUP.aspx?name=1XQK.mp4&count=13" target="_blank">《天庭小子·小乾坤》</a><br>
       《大裤衩》第2季第6集<br>
       《全球新闻》27日、《环球直击》28日<br>
       《中国禁闻》27日、《今日点击》27日<br>
