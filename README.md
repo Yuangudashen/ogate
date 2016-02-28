@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td rowspan=2><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=480P:1" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/WJ.jpg" /></a></td>
-    <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:4,1:16" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/11DKC.jpg" /></a></td> 
+    <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:6,1:16" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/11DKC.jpg" /></a></td> 
   </tr>
   <tr>
     <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=LRSH.mp4&count=W:13,2:10" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/LRSH.jpg" /></a></td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201602:20,201601:21&current=201602:20" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
-    <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201602:25,201601:28&current=201602:25" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
+    <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201602:26,201601:28&current=201602:26" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201602:20,201601:23&current=201602:20" target="_blank"><img src="https://d3s5nibnc26ce4.cloudfront.net/Up/4SZG0.jpg"/></a></td>
@@ -92,7 +92,8 @@
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
-      《全球新闻》27日、《环球直击》27日<br>
+      《大裤衩》第2季第6集<br>
+      《全球新闻》27日、《环球直击》28日<br>
       《中国禁闻》27日、《今日点击》27日<br>
       《天笑快评》22日、《文昭解读》22日<br>
       <a href="https://d3s5nibnc26ce4.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
