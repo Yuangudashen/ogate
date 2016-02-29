@@ -94,11 +94,11 @@
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
-      <a href="https://d2ks1xveu3qo1f.cloudfront.net/ogUP.aspx?name=1XQK.mp4&count=13" target="_blank">《雷人网事小品》29日</a><br>
       《大裤衩》第2季第6集<br>
       《全球新闻》27日、《环球直击》29日<br>
       《中国禁闻》27日、《今日点击》29日<br>
       《天笑快评》22日、《文昭解读》29日<br>
+      《雷人网事小品》29日<br>
       <a href="https://d2ks1xveu3qo1f.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d2ks1xveu3qo1f.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://d2ks1xveu3qo1f.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
