@@ -23,7 +23,7 @@
   <tr>
     <!--td rowspan=2><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=WJ.mp4&count=T:1,480P:1" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/WJ.jpg" /></a></td-->
     <td><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:6,1:16" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/11DKC.jpg" /></a></td> 
-    <td><div><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:7,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:7" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/LRWS.jpg" /></a></td>
+    <td><div><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:8,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:8" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/LRWS.jpg" /></a></td>
    </tr>
   <tr>
     <td><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=LRSH.mp4&count=W:13,2:10" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/LRSH.jpg" /></a></td>
@@ -66,7 +66,7 @@
   </tr>
   <tr>
     <td><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=4CTX.mp4&count=201602:3,201601:4&current=201602:3" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/4CTX0.jpg"/></a></td>
-    <td><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=4CWZ.mp4&count=201602:3,201601:4&current=201602:3" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/4CWZ0.jpg"/></a></td>
+    <td><a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=4CWZ.mp4&count=201602:4,201601:4&current=201602:4" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/4CWZ0.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://d2iuq3tdl9pjqo.cloudfront.net/onUP.aspx?name=https://dwsfx5awq5vcc.cloudfront.net/" target="_blank"><img src="https://d2iuq3tdl9pjqo.cloudfront.net/Up/0DTW.jpg"/></a></td>
@@ -94,11 +94,11 @@
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
-      <a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=1XQK.mp4&count=13" target="_blank">《天庭小子·小乾坤》</a><br>
+      <a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=1XQK.mp4&count=13" target="_blank">《雷人网事小品》29日</a><br>
       《大裤衩》第2季第6集<br>
       《全球新闻》27日、《环球直击》29日<br>
       《中国禁闻》27日、《今日点击》29日<br>
-      《天笑快评》22日、《文昭解读》22日<br>
+      《天笑快评》22日、《文昭解读》29日<br>
       <a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://d2iuq3tdl9pjqo.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
