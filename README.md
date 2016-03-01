@@ -1,6 +1,6 @@
 ﻿<table>
   <tr></tr>
-  <tr><td colspan=2 align=center><img src="https://github.com/ogate/up/blob/master/oGate.jpg" /></td></tr>
+  <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门<br>动态网址 请点击
 <br>https://d2iesg4ph5leki.cloudfront.net
     </td>
