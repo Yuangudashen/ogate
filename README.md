@@ -1,7 +1,7 @@
 ﻿<table>
   <tr></tr>
   <tr><td colspan=2 align=center><img src="https://github.com/ogate/up/blob/master/oGate.jpg" /></td></tr>
-  <tr><td colspan=2 align=center>网门<br>最新动态网址
+  <tr><td colspan=2 align=center>网门<br>最新动态网址 请点击
 <br>https://d3p25ykz3ykpdz.cloudfront.net
     </td>
   </tr>
