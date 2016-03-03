@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td colspan=2 align=center>永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d327h3tpwm2hzu.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d327h3tpwm2hzu.cloudfront.net/Up/0WMGD2.png"/></a>
-    微信中请点击右上角三个点<br>选择在浏览器中打开<br></td>
+    <br>微信中请点击右上角三个点<br>选择在浏览器中打开<br></td>
   </tr>
   <tr>
     <td colspan=2 align=center><a href="https://d327h3tpwm2hzu.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://d327h3tpwm2hzu.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
