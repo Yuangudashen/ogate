@@ -27,7 +27,7 @@
    </tr>
   <tr>
     <td><a href="https://d3ewoug3z9le0t.cloudfront.net/ogUP.aspx?name=LRSH.mp4&count=W:13,2:10" target="_blank"><img src="https://d3ewoug3z9le0t.cloudfront.net/Up/LRSH.jpg" /></a></td>
-    <td><a href="https://ogNiceVedio.aspx" target="_blank"><img src="https://d3ewoug3z9le0t.cloudfront.net/Up/TGKDY.jpg" /></a></td>
+    <td><a href="https://d3ewoug3z9le0t.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://d3ewoug3z9le0t.cloudfront.net/Up/TGKDY.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d3ewoug3z9le0t.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d3ewoug3z9le0t.cloudfront.net/Up/JQR.jpg" /></a></td>   
