@@ -114,24 +114,6 @@
   </tr>
   <tr>
     <td colspan=2 align=center>可能失效的动态网址
-<br>https://d1xfk757iajs14.cloudfront.net
-<br>https://d2kynzfexcyaj7.cloudfront.net
-<br>https://d3htk1fipigbky.cloudfront.net
-<br>https://d27c7vcmny8bq3.cloudfront.net
-<br>https://dyc59wq21kjjf.cloudfront.net
-<br>https://d254dusev4rdu0.cloudfront.net
-<br>https://d3py4ps0c9b1hf.cloudfront.net
-<br>https://dkpay6pvw01ei.cloudfront.net
-<br>https://d2ryr2wy66sd0g.cloudfront.net
-<br>https://d2nknx3u8ysohr.cloudfront.net
-<br>https://d3j76ek03ubb7f.cloudfront.net
-<br>https://d1vrn4wb9z1xui.cloudfront.net
-<br>https://dc155v5kmwvu3.cloudfront.net
-<br>https://d2qqn54l288e2z.cloudfront.net
-<br>https://d2t79uh14bz09t.cloudfront.net
-<br>https://d36ac0myz927wd.cloudfront.net
-<br>https://d2omdd60kb5jw1.cloudfront.net
-<br>https://d2oryzzyu9r42c.cloudfront.net
     </td>
   </tr>
 </table>
