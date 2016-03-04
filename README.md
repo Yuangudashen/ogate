@@ -102,6 +102,7 @@
       <a href="https://dkpay6pvw01ei.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://dkpay6pvw01ei.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://dkpay6pvw01ei.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
+      <a href="https://dkpay6pvw01ei.cloudfront.net/ogUP.aspx?name=SSZJ480P9.mp4" target="_blank">《活摘黑幕再被揭》</a><br>
       <a href="https://dkpay6pvw01ei.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://dkpay6pvw01ei.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://dkpay6pvw01ei.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
