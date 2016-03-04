@@ -69,7 +69,7 @@
     <td><a href="https://dyc59wq21kjjf.cloudfront.net/ogUP.aspx?name=4CWZ.mp4&count=201602:4,201601:4&current=201602:4" target="_blank"><img src="https://dyc59wq21kjjf.cloudfront.net/Up/4CWZ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://dyc59wq21kjjf.cloudfront.net/onUP.aspx?name=https://dwsfx5awq5vcc.cloudfront.net/" target="_blank"><img src="https://dyc59wq21kjjf.cloudfront.net/Up/0DTW.jpg"/></a></td>
+    <td><a href="https://dyc59wq21kjjf.cloudfront.net/onUP.aspx?name=https://d2t6x1lwzcff38.cloudfront.net/" target="_blank"><img src="https://dyc59wq21kjjf.cloudfront.net/Up/0DTW.jpg"/></a></td>
     <td><a href="https://dyc59wq21kjjf.cloudfront.net/onUP.aspx?name=https://d240ns8up8earz.cloudfront.net/acenter/" target="_blank"><img src="https://dyc59wq21kjjf.cloudfront.net/Up/0TDW.jpg" /></a></td>
   </tr>
   <tr>
