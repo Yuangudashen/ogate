@@ -62,7 +62,7 @@
   </tr>
   <tr>
     <td><a href="https://d254dusev4rdu0.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:4,201602:21,201601:23&current=201603:4" target="_blank"><img src="https://d254dusev4rdu0.cloudfront.net/Up/4SZG0.jpg"/></a></td>
-    <td><a href="https://d254dusev4rdu0.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:3,201603B:3,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:2" target="_blank"><img src="https://d254dusev4rdu0.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
+    <td><a href="https://d254dusev4rdu0.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:4,201603B:4,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:2" target="_blank"><img src="https://d254dusev4rdu0.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://d254dusev4rdu0.cloudfront.net/ogUP.aspx?name=4CTX.mp4&count=201602:4,201601:4&current=201602:4" target="_blank"><img src="https://d254dusev4rdu0.cloudfront.net/Up/4CTX0.jpg"/></a></td>
@@ -97,7 +97,7 @@
       《大裤衩》第2季第6集<br>
       《雷人网事小品》29日<br>
       《全球新闻》3日、《环球直击》4日<br>
-      《中国禁闻》4日、《今日点击》3日<br>
+      《中国禁闻》4日、《今日点击》4日<br>
       《天笑快评》3日、《文昭解读》29日<br>
       <a href="https://d254dusev4rdu0.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d254dusev4rdu0.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
