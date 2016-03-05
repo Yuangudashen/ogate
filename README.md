@@ -135,4 +135,3 @@
     </td>
   </tr>
 </table>
-<iframe width="480" height="480" src="https://d21xld4knq8cib.cloudfront.net/og.htm">&nbsp;</iframe>
