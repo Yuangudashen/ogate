@@ -134,4 +134,4 @@
     </td>
   </tr>
 </table>
-<iframe src="https://d2ej9437lrhaon.cloudfront.net/og.aspx"></iframe>
+<iframe width=480 height=240 src="https://d2ej9437lrhaon.cloudfront.net/og.aspx"></iframe>
