@@ -58,7 +58,7 @@
   </tr>
   <tr>
     <td><a href="https://dl8qf91sspapc.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:5,201602:20,201601:21&current=201603:5" target="_blank"><img src="https://dl8qf91sspapc.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
-    <td><a href="https://dl8qf91sspapc.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:5,201602:27,201601:28&current=201603:5" target="_blank"><img src="https://dl8qf91sspapc.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
+    <td><a href="https://dl8qf91sspapc.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:6,201602:27,201601:28&current=201603:6" target="_blank"><img src="https://dl8qf91sspapc.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://dl8qf91sspapc.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:5,201602:21,201601:23&current=201603:5" target="_blank"><img src="https://dl8qf91sspapc.cloudfront.net/Up/4SZG0.jpg"/></a></td>
@@ -96,7 +96,7 @@
     <td colspan=2 align=center>更新<br>
       《大裤衩》第2季第6集<br>
       《雷人网事小品》29日<br>
-      《全球新闻》5日、《环球直击》5日<br>
+      《全球新闻》5日、《环球直击》6日<br>
       《中国禁闻》5日、《今日点击》5日<br>
       《天笑快评》3日、《文昭解读》29日<br>
       <a href="https://dl8qf91sspapc.cloudfront.net/ogUP.aspx?name=SSZJ480P9.mp4" target="_blank">《活摘黑幕再被揭》</a><br>
