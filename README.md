@@ -3,7 +3,7 @@
   <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门<br>动态网址 请点击
 <br>https://d1iqr4k05sgssh.cloudfront.net
-      <br>微信请点击右上角三个点<br>选择在浏览器中打开<br></td>
+      <br>微信请点击<br>http://bit.ly/1npnbmE</td>
   </tr>
   <tr>
     <td colspan=2 align=center>永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d1iqr4k05sgssh.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d1iqr4k05sgssh.cloudfront.net/Up/0WMGD2.png"/></a></td>
@@ -110,25 +110,8 @@
     <td colspan=2 align=center>IE6打开动态网址须在选项中勾选TLS 1.0<br/>IE 6、7、8不支持永久网址<br/>
       微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://d1iqr4k05sgssh.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://d1iqr4k05sgssh.cloudfront.net/Up/0WMGD3.png"/></a><br>
   </tr>
-  <tr>
+  <!--tr>
     <td colspan=2 align=center>可能失效的动态网址
-<br>https://d21xld4knq8cib.cloudfront.net
-<br>https://d1g5h0sbtdm59z.cloudfront.net
-<br>https://df94m4z0brnth.cloudfront.net
-<br>https://dl8qf91sspapc.cloudfront.net
-<br>https://d3frd52vlidvmx.cloudfront.net
-<br>https://dz9kfq2petn7n.cloudfront.net
-<br>https://dg4ocbnjlwr1e.cloudfront.net
-<br>https://d3poizoi25rwnl.cloudfront.net
-<br>https://d16e77ax8c5dm5.cloudfront.net
-<br>https://d2t2agw9ktn3vm.cloudfront.net
-<br>https://dbc9flybu3lw.cloudfront.net
-<br>https://d2h7y6qd64hxly.cloudfront.net
-<br>https://d3j8v35jdso8qm.cloudfront.net
-<br>https://dkprndj8qt5gi.cloudfront.net
-<br>https://d2m2inecjub293.cloudfront.net
-<br>https://d74y1fkzri1j8.cloudfront.net
-<br>https://d23lr2r2q9758t.cloudfront.net
     </td>
-  </tr>
+  </tr-->
 </table>
