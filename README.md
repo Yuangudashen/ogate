@@ -6,7 +6,7 @@
     </td>
   </tr>
   <tr>
-    <td>微信用户，必须首先点击右上角三个点<br>选择在浏览器中打开，才能观看以下视频</td>
+    <td colspan=2>微信用户，必须首先点击右上角三个点<br>选择在浏览器中打开，才能观看以下视频</td>
   </tr>
   <tr>
     <td rowspan=2><a href="https://d1y4yf9rb0yjh0.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:8,1:16&from=github" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/11DKC1.jpg" /></a></td> 
