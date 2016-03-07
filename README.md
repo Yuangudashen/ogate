@@ -3,11 +3,10 @@
   <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门<br>最新动态网址 请点击进入
 <br>https://d1y4yf9rb0yjh0.cloudfront.net
-      <br><br>微信用户，必须首先点击右上角三个点<br>选择在浏览器中打开，才能观看以下视频</td>
+    </td>
   </tr>
   <tr>
-    <td><a href="https://d1y4yf9rb0yjh0.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/0WCYY.jpg" /></a></td>
-    <td><a href="https://d1y4yf9rb0yjh0.cloudfront.net/onCO.aspx?ob=600%E4%BA%8B%E7%89%A9&op=%E5%A2%9E%E5%88%A0%E6%94%B9&args=WH1~%23%E7%B1%BB%E5%9E%8B6%E6%96%B0%E9%97%BB%7c%23%E7%B1%BB%E5%9E%8B6%E8%AF%84%E8%AE%BA&mode=" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
+    <td>微信用户，必须首先点击右上角三个点<br>选择在浏览器中打开，才能观看以下视频</td>
   </tr>
   <tr>
     <td rowspan=2><a href="https://d1y4yf9rb0yjh0.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:8,1:16&from=github" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/11DKC1.jpg" /></a></td> 
@@ -94,6 +93,10 @@
       <a href="https://d1y4yf9rb0yjh0.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://d1y4yf9rb0yjh0.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
     </td>
+  </tr>
+  <tr>
+    <td><a href="https://d1y4yf9rb0yjh0.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/0WCYY.jpg" /></a></td>
+    <td><a href="https://d1y4yf9rb0yjh0.cloudfront.net/onCO.aspx?ob=600%E4%BA%8B%E7%89%A9&op=%E5%A2%9E%E5%88%A0%E6%94%B9&args=WH1~%23%E7%B1%BB%E5%9E%8B6%E6%96%B0%E9%97%BB%7c%23%E7%B1%BB%E5%9E%8B6%E8%AF%84%E8%AE%BA&mode=" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
   </tr>
   <tr>
     <td><a href="https://d1y4yf9rb0yjh0.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://d1y4yf9rb0yjh0.cloudfront.net/Up/0FK.jpg" /></a></td>
