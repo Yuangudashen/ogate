@@ -11,12 +11,8 @@
     <td><a href="https://da1ivqz5v2dxa.cloudfront.net/onCO.aspx?ob=600%E4%BA%8B%E7%89%A9&op=%E5%A2%9E%E5%88%A0%E6%94%B9&args=WH1~%23%E7%B1%BB%E5%9E%8B6%E6%96%B0%E9%97%BB%7c%23%E7%B1%BB%E5%9E%8B6%E8%AF%84%E8%AE%BA&mode=" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
   </tr>
   <tr>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0FK.jpg" /></a></td>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogST.aspx" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0ST.jpg" /></a></td> 
-  </tr>
-  <tr>
     <td rowspan=2><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:8,1:16&from=github" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/11DKC1.jpg" /></a></td> 
-    <td><div><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:8,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:8" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/LRWS.jpg" /></a></td>
+    <td><div><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:9,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:9" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/LRWS.jpg" /></a></td>
    </tr>
   <tr>
     <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/TGKDY.jpg" /></a></td>
@@ -50,15 +46,15 @@
   </tr>
   <tr>
     <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:5,201602:20,201601:21&current=201603:5" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:6,201602:27,201601:28&current=201603:6" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:7,201602:27,201601:28&current=201603:7" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:5,201602:21,201601:23&current=201603:5" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SZG0.jpg"/></a></td>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:5,201603B:4,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:5" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:6,201602:21,201601:23&current=201603:6" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SZG0.jpg"/></a></td>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:6,201603B:4,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:6" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4CTX.mp4&count=201603:1,201602:3,201601:4&current=201603:1" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4CTX0.jpg"/></a></td>
-    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4CWZ.mp4&count=201602:4,201601:4&current=201602:4" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4CWZ0.jpg"/></a></td>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4CTX.mp4&count=201603:2,201602:3,201601:4&current=201603:2" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4CTX0.jpg"/></a></td>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4CWZ.mp4&count=201603:1,201602:4,201601:4&current=201603:1" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/4CWZ0.jpg"/></a></td>
   </tr>
   <tr>
     <td><a href="https://da1ivqz5v2dxa.cloudfront.net/onUP.aspx?name=https://d2t6x1lwzcff38.cloudfront.net/" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0DTW.jpg"/></a></td>
@@ -87,10 +83,10 @@
   <tr>
     <td colspan=2 align=center>更新<br>
       《大裤衩》第2季第8集<br>
-      《雷人网事小品》29日<br>
-      《全球新闻》5日、《环球直击》6日<br>
-      《中国禁闻》5日、《今日点击》5日<br>
-      《天笑快评》3日、《文昭解读》29日<br>
+      《雷人网事小品》7日<br>
+      《全球新闻》5日、《环球直击》7日<br>
+      《中国禁闻》7日、《今日点击》7日<br>
+      《天笑快评》7日、《文昭解读》7日<br>
       <a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=SSZJ480P9.mp4" target="_blank">《活摘黑幕再被揭》</a><br>
       <a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
@@ -99,6 +95,10 @@
       <a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://da1ivqz5v2dxa.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
     </td>
+  </tr>
+  <tr>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0FK.jpg" /></a></td>
+    <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogST.aspx" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
     <td colspan=2 align=center>IE6打开动态网址须在选项中勾选TLS 1.0<br/>IE 6、7、8不支持永久网址<br/>
