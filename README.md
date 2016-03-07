@@ -4,7 +4,7 @@
   <tr><td colspan=2 align=center>网门<br><电影·音乐·时事·软件></td></tr>
   <tr><td colspan=2 align=center>最新动态网址 请点击进入
 <br>https://d3kxohkmmz25o2.cloudfront.net
-      <br><br>微信用户请点击右上角三个点<br>选择在浏览器中打开<br>或点击以下网址，并选择信任证书<br>https://ogate.info.tm<br>http://ogate.info.tm</td>
+      <br><br>微信用户请点击右上角三个点<br>选择在浏览器中打开<br>或点击以下网址<br>http://ogate.info.tm</td>
   </tr>
   <tr>
     <td colspan=2 align=center><img src="https://d3kxohkmmz25o2.cloudfront.net/Up/0oGate1.jpg" /></a></td>
