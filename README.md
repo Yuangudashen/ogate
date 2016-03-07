@@ -4,13 +4,7 @@
   <tr><td colspan=2 align=center>网门<br><电影·音乐·时事·软件></td></tr>
   <tr><td colspan=2 align=center>最新动态网址 请点击进入
 <br>https://da1ivqz5v2dxa.cloudfront.net
-      <br><br>微信用户，必须点击右上角三个点<br>选择在浏览器中打开，才能观看以下视频</td>
-  </tr>
-  <tr>
-    <td colspan=2 align=center>永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGD2.png"/></a></td>
-  </tr>
-  <tr>
-    <td colspan=2 align=center><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
+      <br><br>微信用户，必须首先点击右上角三个点<br>选择在浏览器中打开，才能观看以下视频</td>
   </tr>
   <tr>
     <td><a href="https://da1ivqz5v2dxa.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WCYY.jpg" /></a></td>
@@ -108,7 +102,13 @@
   </tr>
   <tr>
     <td colspan=2 align=center>IE6打开动态网址须在选项中勾选TLS 1.0<br/>IE 6、7、8不支持永久网址<br/>
-      微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGD3.png"/></a><br>
+      <!--微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGD3.png"/></a><br-->
+  </tr>
+  <tr>
+    <td colspan=2 align=center>永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMGD2.png"/></a></td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center><a href="https://da1ivqz5v2dxa.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://da1ivqz5v2dxa.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
   </tr>
   <!--tr>
     <td colspan=2 align=center>可能失效的动态网址
