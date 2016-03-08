@@ -43,11 +43,11 @@
     <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=10CYS.mp4&count=2" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/10CYS0.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:5,201602:20,201601:21&current=201603:5" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
-    <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:7,201602:27,201601:28&current=201603:7" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
+    <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:6,201602:20,201601:21&current=201603:6" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
+    <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:8,201602:27,201601:28&current=201603:8" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:6,201602:21,201601:23&current=201603:6" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SZG0.jpg"/></a></td>
+    <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:7,201602:21,201601:23&current=201603:7" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SZG0.jpg"/></a></td>
     <td><a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:6,201603B:4,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:6" target="_blank"><img src="https://d1td9b5l0o4hn.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
@@ -82,8 +82,8 @@
     <td colspan=2 align=center>更新<br>
       《大裤衩》第2季第8集<br>
       《雷人网事小品》7日<br>
-      《全球新闻》5日、《环球直击》7日<br>
-      《中国禁闻》7日、《今日点击》7日<br>
+      《全球新闻》8日、《环球直击》8日<br>
+      《中国禁闻》8日、《今日点击》7日<br>
       《天笑快评》7日、《文昭解读》7日<br>
       <a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=SSZJ480P9.mp4" target="_blank">《活摘黑幕再被揭》</a><br>
       <a href="https://d1td9b5l0o4hn.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
