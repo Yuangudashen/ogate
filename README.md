@@ -47,7 +47,7 @@
     <td><a href="https://d3r6vyicx1kcld.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:9,201602:27,201601:28&current=201603:9" target="_blank"><img src="https://d3r6vyicx1kcld.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d3r6vyicx1kcld.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:7,201602:21,201601:23&current=201603:7" target="_blank"><img src="https://d3r6vyicx1kcld.cloudfront.net/Up/4SZG0.jpg"/></a></td>
+    <td><a href="https://d3r6vyicx1kcld.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:8,201602:21,201601:23&current=201603:8" target="_blank"><img src="https://d3r6vyicx1kcld.cloudfront.net/Up/4SZG0.jpg"/></a></td>
     <td><a href="https://d3r6vyicx1kcld.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:8,201603B:5,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:8" target="_blank"><img src="https://d3r6vyicx1kcld.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
@@ -87,7 +87,7 @@
       《大裤衩》第2季第8集<br>
       《雷人网事小品》7日<br>
       《全球新闻》9日、《环球直击》9日<br>
-      《中国禁闻》8日、《今日点击》9日<br>
+      《中国禁闻》9日、《今日点击》9日<br>
       《天笑快评》7日、《文昭解读》7日<br>
       <a href="https://d3r6vyicx1kcld.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:2&current=S:2" target="_blank">《活摘曝光十年》第2集</a><br>
       <a href="https://d3r6vyicx1kcld.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
