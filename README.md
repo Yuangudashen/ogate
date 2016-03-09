@@ -89,7 +89,7 @@
       《全球新闻》9日、《环球直击》9日<br>
       《中国禁闻》8日、《今日点击》9日<br>
       《天笑快评》7日、《文昭解读》7日<br>
-      <a href="https://d1ccv1dicngqwt.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=S:2:480P:9&current=S:2" target="_blank">《活摘曝光十年》第2集</a><br>
+      <a href="https://d1ccv1dicngqwt.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:2&current=S:2" target="_blank">《活摘曝光十年》第2集</a><br>
       <a href="https://d1ccv1dicngqwt.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://d1ccv1dicngqwt.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://d1ccv1dicngqwt.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
