@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td><a href="https://d2lsb15lmz4g3a.cloudfront.net/onUP.aspx?name=https://d3aj00iefsmfgc.cloudfront.net/" target="_blank"><img src="https://d2lsb15lmz4g3a.cloudfront.net/Up/0MHW.jpg" /></a></td>
-    <td><a href="https://d2lsb15lmz4g3a.cloudfront.net/onUP.aspx?name=https://d1lcj91uv80klr.cloudfront.net/" target="_blank"><img src="https://d2lsb15lmz4g3a.cloudfront.net/Up/0ZJW.jpg" /></a></td>
+    <td><a href="https://d2lsb15lmz4g3a.cloudfront.net/onUP.aspx?name=https://d1sbg9daat0zu5.cloudfront.net/" target="_blank"><img src="https://d2lsb15lmz4g3a.cloudfront.net/Up/0ZJW.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d2lsb15lmz4g3a.cloudfront.net/ogUP.aspx?name=0FG.zip" target="_blank"><img src="https://d2lsb15lmz4g3a.cloudfront.net/Up/0FG.jpg" /></a></td>
