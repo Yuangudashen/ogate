@@ -13,7 +13,7 @@
     <td><div><a href="https://d1iyz191lrhrxt.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:9,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:9" target="_blank"><img src="https://d1iyz191lrhrxt.cloudfront.net/Up/LRWS.jpg" /></a></td>
    </tr>
   <tr>
-    <td><a href="https://d1iyz191lrhrxt.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://d1iyz191lrhrxt.cloudfront.net/Up/TGKDY.jpg" /></a></td>
+    <td><a href="https://d1iyz191lrhrxt.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://d1iyz191lrhrxt.cloudfront.net/Up/11TGKDY.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d1iyz191lrhrxt.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d1iyz191lrhrxt.cloudfront.net/Up/JQR.jpg" /></a></td>   
