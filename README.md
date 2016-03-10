@@ -51,7 +51,7 @@
     <td><a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:9,201603B:6,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:9" target="_blank"><img src="https://d12aywrh62mxii.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4SGX.mp4&count=201603:1&current=201603:1" target="_blank"><img src="https://d12aywrh62mxii.cloudfront.net/Up/4SGX0.jpg"/></a></td>
+    <td><a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4SGX.mp4&count=201603:2&current=201603:2" target="_blank"><img src="https://d12aywrh62mxii.cloudfront.net/Up/4SGX0.jpg"/></a></td>
     <td><a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4SHD.mp4&count=201603:3&current=201603:1" target="_blank"><img src="https://d12aywrh62mxii.cloudfront.net/Up/4SHD0.jpg"/></a></td>
   </tr>
   <tr>
@@ -88,8 +88,10 @@
       《雷人网事小品》7日<br>
       《全球新闻》10日、《环球直击》10日<br>
       《中国禁闻》10日、《今日点击》10日<br>
+      《世事关心》10日、《热点互动》7日<br>
       《天笑快评》7日、《文昭解读》7日<br>
       <a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:2&current=S:2" target="_blank">《活摘曝光十年》第2集</a><br>
+      <a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4TJDBZ.mp4" target="_blank">《天津大爆炸－中国社会的阴暗面》</a><br>
       <a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://d12aywrh62mxii.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
