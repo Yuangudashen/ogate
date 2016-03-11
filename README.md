@@ -43,11 +43,11 @@
     <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=10CYS.mp4&count=2" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/10CYS0.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:8,201602:20,201601:21&current=201603:8" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
-    <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:10,201602:27,201601:28&current=201603:10" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
+    <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:9,201602:20,201601:21&current=201603:9" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SQQ0.jpg"/></a></td>
+    <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:11,201602:27,201601:28&current=201603:11" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SHQ0.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:9,201602:21,201601:23&current=201603:9" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SZG0.jpg"/></a></td>
+    <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:10,201602:21,201601:23&current=201603:10" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SZG0.jpg"/></a></td>
     <td><a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:9,201603B:6,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:9" target="_blank"><img src="https://d3fyj0tg5bh770.cloudfront.net/Up/4SDJ0.jpg"/></a></td>
   </tr>
   <tr>
@@ -86,8 +86,8 @@
     <td colspan=2 align=center>更新<br>
       《大裤衩》第2季第8集<br>
       《雷人网事小品》7日<br>
-      《全球新闻》10日、《环球直击》10日<br>
-      《中国禁闻》10日、《今日点击》10日<br>
+      《全球新闻》11日、《环球直击》11日<br>
+      《中国禁闻》11日、《今日点击》10日<br>
       《世事关心》10日、《热点互动》7日<br>
       《天笑快评》7日、《文昭解读》7日<br>
       <a href="https://d3fyj0tg5bh770.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:2&current=S:2" target="_blank">《活摘曝光十年》第2集</a><br>
