@@ -113,7 +113,7 @@
       <!--微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://d2wc5sho189k8p.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://d2wc5sho189k8p.cloudfront.net/Up/0WMGD3.png"/></a><br-->
   </tr>
   <tr>
-    <td colspan=2 align=center>永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d2wc5sho189k8p.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d2wc5sho189k8p.cloudfront.net/Up/0WMGD2.png"/></a></td>
+    <td colspan=2 align=center>可以持续访问本站的永久网址 请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d2wc5sho189k8p.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d2wc5sho189k8p.cloudfront.net/Up/0WMGD2.png"/></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center><a href="https://d2wc5sho189k8p.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://d2wc5sho189k8p.cloudfront.net/Up/0WMAZ.jpg" /></a></td>
