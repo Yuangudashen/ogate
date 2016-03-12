@@ -43,15 +43,15 @@
     <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=10CYS.mp4&count=2" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720292/a531a128-e83f-11e5-88ec-42f8d394e971.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:9,201602:20,201601:21&current=201603:9" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720313/58ed0734-e840-11e5-8924-2fa159a25712.jpg"/></a></td>
+    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SQQ.mp4&count=201603:10,201602:20,201601:21&current=201603:10" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720313/58ed0734-e840-11e5-8924-2fa159a25712.jpg"/></a></td>
     <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SHQ.mp4&count=201603:11,201602:27,201601:28&current=201603:11" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720316/5fa51058-e840-11e5-874b-88ac4c55f722.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:10,201602:21,201601:23&current=201603:10" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720318/66b96f06-e840-11e5-95f8-6f36988c3c33.jpg"/></a></td>
+    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SZG.mp4&count=201603:11,201602:21,201601:23&current=201603:11" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720318/66b96f06-e840-11e5-95f8-6f36988c3c33.jpg"/></a></td>
     <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SDJ.mp4&count=201603A:10,201603B:6,201602A:24,201602B:7,201601A:48,201601B:6&current=201603A:10" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720321/6c3c9fa2-e840-11e5-9b0c-ccad1db90215.jpg"/></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SGX.mp4&count=201603:2&current=201603:2" target="_blank"><img src="ttps://cloud.githubusercontent.com/assets/11880933/13720322/70a9bf48-e840-11e5-95d7-0c6bab71dda8.jpg"/></a></td>
+    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SGX.mp4&count=201603:2&current=201603:2" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720322/70a9bf48-e840-11e5-95d7-0c6bab71dda8.jpg"/></a></td>
     <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=4SHD.mp4&count=201603:3&current=201603:1" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720323/76307ac4-e840-11e5-8838-7b45a49fe047.jpg"/></a></td>
   </tr>
   <tr>
@@ -86,8 +86,8 @@
     <td colspan=2 align=center>更新<br>
       《大裤衩》第2季第8集<br>
       《雷人网事小品》7日<br>
-      《全球新闻》11日、《环球直击》11日<br>
-      《中国禁闻》11日、《今日点击》11日<br>
+      《全球新闻》12日、《环球直击》11日<br>
+      《中国禁闻》12日、《今日点击》11日<br>
       《世事关心》10日、《热点互动》7日<br>
       《天笑快评》7日、《文昭解读》7日<br>
       <a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:3&current=S:3" target="_blank">《活摘曝光十年》第3集</a><br>
