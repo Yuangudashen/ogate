@@ -20,7 +20,7 @@
     <td rowspan=2><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720246/da02d6fc-e83e-11e5-95fe-86ad08d9e39f.jpg" /></td>
   </tr>
   <tr>
-    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=WH.mp4" target="_blank"><img src="hhttps://cloud.githubusercontent.com/assets/11880933/13720248/dff9f072-e83e-11e5-806d-d58f9b2bba74.jpg" /></a></td>
+    <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=WH.mp4" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720248/dff9f072-e83e-11e5-806d-d58f9b2bba74.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d2qvy0rpyj20ag.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:3" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720256/15875644-e83f-11e5-864d-8661b2bd3e61.jpg" /></a></td>
