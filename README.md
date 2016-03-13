@@ -3,10 +3,10 @@
   <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门<br>最新动态网址，请点击进入
 <br>https://d2jyo986u2zf55.cloudfront.net
-    </td>
+    <br>微信用户如无法打开，请<br>点击右上角三个点，选择在浏览器中打开</td>
   </tr>
   <tr>
-    <td colspan=2 align=center>微信用户，请先点击右上角三个点<br>选择在浏览器中打开，以观看以下视频</td>
+    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a></td>
   </tr>
   <tr>
     <td rowspan=2><a href="https://d2jyo986u2zf55.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:10,1:16&from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720229/398b781e-e83e-11e5-939a-61d262e10cd7.jpg" /></a></td> 
