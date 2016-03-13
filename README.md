@@ -85,11 +85,11 @@
   <tr>
     <td colspan=2 align=center>更新<br>
       《大裤衩》第2季第10集<br>
-      《雷人网事小品》7日<br>
+      《雷人网事小品》14日<br>
       《全球新闻》12日、《环球直击》13日<br>
       《中国禁闻》12日、《今日点击》12日<br>
       《世事关心》8日、《热点互动》12日<br>
-      《天笑快评》7日、《文昭解读》7日<br>
+      《天笑快评》14日、《文昭解读》14日<br>
       <a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:3&current=S:3" target="_blank">《活摘曝光十年》第3集</a><br>
       <a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=4TJDBZ.mp4" target="_blank">《天津大爆炸－中国社会的阴暗面》</a><br>
       <a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
