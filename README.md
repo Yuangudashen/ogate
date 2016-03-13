@@ -9,8 +9,8 @@
     <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a></td>
   </tr>
   <tr>
-    <td rowspan=2><a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=11DKC.mp4&count=T:2,2:10,1:16&from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720229/398b781e-e83e-11e5-939a-61d262e10cd7.jpg" /></a></td> 
-    <td><div><a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=LRWS.mp4&count=7B:9,6B:44,5A:10,5B:35,4A:14,4B:19,3A:10,3B:26,2A:16,2B:21,1A:23,1B:29&current=7B:9" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720232/48ae8ffc-e83e-11e5-8957-1a8c5558dd3f.jpg" /></a></td>
+    <td rowspan=2><a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=11DKC.mp4&list=11DKC&from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720229/398b781e-e83e-11e5-939a-61d262e10cd7.jpg" /></a></td> 
+    <td><div><a href="https://d2cg8zmiqidjff.cloudfront.net/ogUP.aspx?name=LRWS.mp4&list=LRWS" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720232/48ae8ffc-e83e-11e5-8957-1a8c5558dd3f.jpg" /></a></td>
    </tr>
   <tr>
     <td><a href="https://d2cg8zmiqidjff.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13722375/2f085b92-e87e-11e5-9089-eaa063a04eed.jpg" /></a></td>
