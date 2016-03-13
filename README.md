@@ -3,7 +3,7 @@
   <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门<br>最新动态网址，请点击进入
 <br>https://d2jyo986u2zf55.cloudfront.net
-    <br>微信用户如无法打开，请<br>点击右上角三个点，选择在浏览器中打开</td>
+    <br>* 微信用户如无法打开，请先<br>点击右上角三个点，选择在浏览器中打开</td>
   </tr>
   <tr>
     <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a></td>
@@ -112,9 +112,9 @@
     <td colspan=2 align=center>IE6打开动态网址须在选项中勾选TLS 1.0<br/>IE 6、7、8不支持永久网址<br/>
       <!--微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://d2jyo986u2zf55.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://d2jyo986u2zf55.cloudfront.net/Up/0WMGD3.png"/></a><br-->
   </tr>
-  <tr>
+  <!--tr>
     <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://d2jyo986u2zf55.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d2jyo986u2zf55.cloudfront.net/Up/0WMGD2.png"/></a></td>
-  </tr>
+  </tr-->
   <tr>
     <td colspan=2 align=center><a href="https://d2jyo986u2zf55.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br>安卓软件下载网址<br><a href="https://git.io/ogatea">https://git.io/ogatea</a></td>
   </tr>
