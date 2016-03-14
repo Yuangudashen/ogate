@@ -90,7 +90,7 @@
       《中国禁闻》12日、《今日点击》12日<br>
       《世事关心》8日、《热点互动》12日<br>
       《天笑快评》14日、《文昭解读》7日<br>
-      <a href="https://d3otkmycqt361u.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&count=480P:9,S:3&current=S:3" target="_blank">《活摘曝光十年》第3集</a><br>
+      《生死之间》《活摘曝光十周年》第4集</a><br>
       <a href="https://d3otkmycqt361u.cloudfront.net/ogUP.aspx?name=4TJDBZ.mp4" target="_blank">《天津大爆炸－中国社会的阴暗面》</a><br>
       <a href="https://d3otkmycqt361u.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://d3otkmycqt361u.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
