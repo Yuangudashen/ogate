@@ -7,7 +7,7 @@
     <br>* IE6打开动态网址须在选项中勾选TLS 1.0<br/>* IE 6、7、8不支持永久网址<br/></td>
   </tr>
   <tr>
-    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a></td>
+    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s</td>
   </tr>
   <tr>
     <td rowspan=2><a href="https://decfcc47v5s1v.cloudfront.net/ogUP.aspx?name=11DKC.mp4&list=11DKC&from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720229/398b781e-e83e-11e5-939a-61d262e10cd7.jpg" /></a></td> 
@@ -112,7 +112,7 @@
       <微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://decfcc47v5s1v.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://decfcc47v5s1v.cloudfront.net/Up/0WMGD3.png"/></a>
   </tr-->
   <tr>
-    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/><a href="https://decfcc47v5s1v.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://decfcc47v5s1v.cloudfront.net/Up/0WMGD2.png"/></a></td>
+    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/><a href="https://decfcc47v5s1v.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://decfcc47v5s1v.cloudfront.net/Up/0WMGD2.png"/></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center><a href="https://decfcc47v5s1v.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br>安卓软件下载网址<br><a href="https://git.io/ogatea">https://git.io/ogatea</a></td>
