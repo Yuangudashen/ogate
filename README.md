@@ -10,7 +10,7 @@
     <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>* IE 6、7、8不支持永久网址</td>
   </tr>
   <tr>
-    <td rowspan=2><a href="https://d27khxdj6sj3po.cloudfront.net/ogUP.aspx?name=11DKC.mp4&list=11DKC&from=github" target="_blank"><img src="https://d27khxdj6sj3po.cloudfront.net/11DKC.jpg" /></a></td> 
+    <td rowspan=2><a href="https://d27khxdj6sj3po.cloudfront.net/ogUP.aspx?name=11DKC.mp4&list=11DKC&from=github" target="_blank"><img src="https://d27khxdj6sj3po.cloudfront.net/Up/11DKC.jpg" /></a></td> 
     <td><div><a href="https://d27khxdj6sj3po.cloudfront.net/ogUP.aspx?name=LRWS.mp4&list=LRWS" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720232/48ae8ffc-e83e-11e5-8957-1a8c5558dd3f.jpg" /></a></td>
    </tr>
   <tr>
