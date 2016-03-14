@@ -4,10 +4,10 @@
   <tr><td colspan=2 align=center>网门<br>最新动态网址，请点击进入
 <br>https://decfcc47v5s1v.cloudfront.net
     <br>* 微信用户如无法打开，请先<br>点击右上角三个点，选择在浏览器中打开
-    <br>* IE6打开动态网址须在选项中勾选TLS 1.0<br/>* IE 6、7、8不支持永久网址<br/></td>
+    <br>* IE6打开动态网址须在选项中勾选TLS 1.0</td>
   </tr>
   <tr>
-    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s</td>
+    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>* IE 6、7、8不支持永久网址</td>
   </tr>
   <tr>
     <td rowspan=2><a href="https://decfcc47v5s1v.cloudfront.net/ogUP.aspx?name=11DKC.mp4&list=11DKC&from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720229/398b781e-e83e-11e5-939a-61d262e10cd7.jpg" /></a></td> 
