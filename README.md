@@ -17,15 +17,15 @@
     <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/11TGKDY.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=|2" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/JQR.jpg" /></a></td>   
-    <td rowspan=2><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=JP.mp4&count=|9" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/JP.jpg" /></td>
+    <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=JQR.mp4&count=2" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/JQR.jpg" /></a></td>   
+    <td rowspan=2><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=JP.mp4&count=9" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/JP.jpg" /></td>
   </tr>
   <tr>
     <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=WH.mp4" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/WH.jpg" /></a></td>
   </tr>
   <tr>
     <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=SSZJ.mp4&list=SSZJ" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/SSZJ.jpg" /></a></td>
-    <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=1XQK.mp4&count=|13" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/1XQK.jpg" /></a</td>
+    <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=1XQK.mp4&count=13" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/1XQK.jpg" /></a</td>
   </tr>
   <tr>
     <td><a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=ZY.mp4&count=2015:16" target="_blank"><img src="https://d3ax4rbyg0qube.cloudfront.net/Up/ZY.jpg" /></a</td>
@@ -83,7 +83,7 @@
       <a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
-      <a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=|2" target="_blank">《难以置信》预告片</a><br>
+      <a href="https://d3ax4rbyg0qube.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
       <a href="https://d3ax4rbyg0qube.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
     </td>
   </tr>
