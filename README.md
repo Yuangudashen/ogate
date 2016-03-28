@@ -75,8 +75,9 @@
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
-      《大裤衩》第2季第10集<br>
-      《雷人网事小品》21日<br>
+      <a href="https://d1dtpafvzvjhso.cloudfront.net/ogUP.aspx?name=4ESL.mp4" target="_blank">《送礼》</a><br>
+      <a href="https://d1dtpafvzvjhso.cloudfront.net/ogUP.aspx?name=4ESY.mp4" target="_blank">《善缘》</a><br>
+      <a href="https://d1dtpafvzvjhso.cloudfront.net/ogUP.aspx?name=4EHX.mp4" target="_blank">《唤醒》</a><br>
       《生死之间·活摘曝光十周年》第4集</a><br>
       <a href="https://d1dtpafvzvjhso.cloudfront.net/ogUP.aspx?name=4TJDBZ.mp4" target="_blank">《天津大爆炸－中国社会的阴暗面》</a><br>
       <a href="https://d1dtpafvzvjhso.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
