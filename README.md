@@ -6,7 +6,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center>* 微信用户，需手工复制到浏览器地址栏<br>或尝试点击右上角三个点，在浏览器中打开
+    <td colspan=2 align=center>* 微信用户，需点击右上角三个点<br>选择在浏览器中打开<br>或手工复制到浏览器地址栏
     <br>* IE6打开动态网址须在选项中勾选TLS 1.0</td>
   </tr>
   <tr>
