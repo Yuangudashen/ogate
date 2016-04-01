@@ -89,22 +89,18 @@
     </td>
   </tr>
   <tr>
-    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720378/f84bb392-e841-11e5-8739-815049dd6ff8.jpg" /></a></td>
-    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/onCO.aspx?ob=600事物&op=增删改&args=WH1~%23类型6新闻%7c%23类型6评论&mode=" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720380/04d76a16-e842-11e5-8833-e627daa88802.jpg" /></a></td> 
+    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0WCYY.jpg" /></a></td>
+    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/onCO.aspx?ob=600事物&op=增删改&args=WH1~%23类型6新闻%7c%23类型6评论&mode=" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
   </tr>
   <tr>
-    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720384/11817090-e842-11e5-9571-7dc2f1af9f42.jpg" /></a></td>
-    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/ogST.aspx" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720385/1467ea3c-e842-11e5-86df-c96c9a556aaf.jpg" /></a></td> 
-  </tr>
-  <!--tr>
-    <td colspan=2 align=center>
-      <微信可扫描以下临时二维码<br/>https://bit.ly/1mBQHW8<br/><a href="https://d39cfczyb4hfzj.cloudfront.net/Up/0WMGDL3.png" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0WMGD3.png"/></a>
-  </tr-->
-  <tr>
-    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>* 不支持IE 6、7、8，可选用<a href="https://d39cfczyb4hfzj.cloudfront.net/Up/0ChromePortable.zip">Chrome</a><br/><a href="https://d39cfczyb4hfzj.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0WMGD2.png"/></a></td>
+    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0FK.jpg" /></a></td>
+    <td><a href="https://d39cfczyb4hfzj.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d39cfczyb4hfzj.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br>安卓软件下载网址<br><a href="https://git.io/ogatea">https://git.io/ogatea</a></td>
+    <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>* 不支持IE 6、7、8，可选用<a href="https://d39cfczyb4hfzj.cloudfront.net/ogUP.aspx?name=0ChromePortable.zip">Chrome</a><br/><a href="https://d39cfczyb4hfzj.cloudfront.net/Up/0WMGDL2.png" target="_blank"><img src="https://d39cfczyb4hfzj.cloudfront.net/Up/0WMGD2.png"/></a></td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center><a href="https://d39cfczyb4hfzj.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br>安卓版下载网址<br><a href="https://git.io/ogatea">https://git.io/ogatea</a></td>
   </tr>
   <!--tr>
     <td colspan=2 align=center>可能失效的动态网址
