@@ -78,8 +78,6 @@
       <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=4ESL.mp4" target="_blank">《送礼》</a><br>
       <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=4ESY.mp4" target="_blank">《善缘》</a><br>
       <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=4EHX.mp4" target="_blank">《唤醒》</a><br>
-      《生死之间·活摘曝光十周年》第4集</a><br>
-      <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=4TJDBZ.mp4" target="_blank">《天津大爆炸－中国社会的阴暗面》</a><br>
       <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=4LFZ.mp4" target="_blank">《国安李凤智公开退党》</a><br>
       <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=4DDZHDCS.mp4" target="_blank">《大地震后的沉思》</a><br>
       <a href="https://d1j0uaa6m5slaj.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
