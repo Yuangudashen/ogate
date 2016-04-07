@@ -83,7 +83,10 @@
       <a href="https://d2xmlb9ulg2u4l.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d2xmlb9ulg2u4l.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://d2xmlb9ulg2u4l.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
-      <a href="https://d2xmlb9ulg2u4l.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a></td>
+      <a href="https://d2xmlb9ulg2u4l.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a><br>
+      友情链接<br>
+      <a href="https://d2xmlb9ulg2u4l.cloudfront.net/onUP.aspx?name=https://git.io/free" target="_blank">https://git.io/free</a><br>
+      <a href="https://d2xmlb9ulg2u4l.cloudfront.net/onUP.aspx?name=https://git.io/jww" target="_blank">https://git.io/jww</a></td>
     </td>
   </tr>
   <tr>
