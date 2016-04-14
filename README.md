@@ -74,12 +74,12 @@
     <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=0iNTD.apk" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0iNTD.jpg" /></a></td>
   </tr>
   <tr>
-    <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0FK.jpg" /></a></td>
-    <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0ST.jpg" /></a></td> 
-  </tr>
-  <tr>
     <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0WCYY.jpg" /></a></td>
     <td><a href="https://d2gf1qdjui6857.cloudfront.net/onCO.aspx?list=XWPL&mode=" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
+  </tr>
+  <tr>
+    <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogDY.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0FK.jpg" /></a></td>
+    <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
     <td colspan=2 align=center>更新<br>
@@ -91,7 +91,11 @@
       <a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=11ZYZG0.mp4" target="_blank">《自由中国》预告片</a><br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
-      <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a><br>
+      <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center>更新<br>
       友情链接<br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://git.io/free" target="_blank">https://git.io/free</a><br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://git.io/jww" target="_blank">https://git.io/jww</a></td>
