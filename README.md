@@ -95,8 +95,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center>更新<br>
-      友情链接<br>
+    <td colspan=2 align=center>友情链接<br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://git.io/free" target="_blank">https://git.io/free</a><br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://git.io/jww" target="_blank">https://git.io/jww</a></td>
     </td>
