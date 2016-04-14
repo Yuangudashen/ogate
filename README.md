@@ -78,6 +78,10 @@
     <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
+    <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0WCYY.jpg" /></a></td>
+    <td><a href="https://d2gf1qdjui6857.cloudfront.net/onCO.aspx?list=XWPL&mode=" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
+  </tr>
+  <tr>
     <td colspan=2 align=center>更新<br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=4ESL.mp4" target="_blank">《送礼》</a><br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=4ESY.mp4" target="_blank">《善缘》</a><br>
@@ -92,10 +96,6 @@
       <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://git.io/free" target="_blank">https://git.io/free</a><br>
       <a href="https://d2gf1qdjui6857.cloudfront.net/onUP.aspx?name=https://git.io/jww" target="_blank">https://git.io/jww</a></td>
     </td>
-  </tr>
-  <tr>
-    <td><a href="https://d2gf1qdjui6857.cloudfront.net/ogNice.aspx" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0WCYY.jpg" /></a></td>
-    <td><a href="https://d2gf1qdjui6857.cloudfront.net/onCO.aspx?ob=600事物&op=增删改&args=WH1~%23类型6新闻%7c%23类型6评论&mode=" target="_blank"><img src="https://d2gf1qdjui6857.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
   </tr>
   <tr>
     <td colspan=2 align=center>可以持续访问本站的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>* 不支持IE 6、7、8、9，可选用<a href="https://d2gf1qdjui6857.cloudfront.net/ogUP.aspx?name=0ChromePortable.zip">Chrome</a></td>
