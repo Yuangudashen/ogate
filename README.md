@@ -96,8 +96,8 @@
   </tr>
   <tr>
     <td colspan=2 align=center>友情链接<br>
-      <a href="https://d5p25da6lviaa.cloudfront.net/onUP.aspx?name=https://git.io/free" target="_blank">https://git.io/free</a><br>
-      <a href="https://d5p25da6lviaa.cloudfront.net/onUP.aspx?name=https://git.io/jww" target="_blank">https://git.io/jww</a></td>
+      <a href="https://git.io/free" target="_blank">https://git.io/free</a><br>
+      <a href="https://git.io/jww" target="_blank">https://git.io/jww</a></td>
     </td>
   </tr>
   <tr>
