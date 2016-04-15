@@ -3,7 +3,7 @@
   <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
   <tr><td colspan=2 align=center>网门<br>最新动态网址，请点击进入
 <br>https://d1tymp34sgovbh.cloudfront.net
-    </td>
+    <br>备用网址<br>https://ogate.antongorbunov.com<br>* 需信任证书</td>
   </tr>
   <tr>
     <td colspan=2 align=center>* 微信用户，需手工复制到浏览器地址栏<br>或尝试点击右上角三个点，选择在浏览器中打开
