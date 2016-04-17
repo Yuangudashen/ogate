@@ -1,7 +1,7 @@
 ﻿<table>
   <tr></tr>
   <tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr>
-  <tr><td colspan=2 align=center>网门<br>最新动态网址，请点击进入
+  <tr><td colspan=2 align=center>网门最新动态网址，请点击进入
 <br>https://d1d5c01u3njhvi.cloudfront.net
     </td>
   </tr>
