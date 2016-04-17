@@ -87,7 +87,7 @@
     <td><a href="https://d1d5c01u3njhvi.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1d5c01u3njhvi.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d1d5c01u3njhvi.cloudfront.net/ogNice.aspx">更多内容……</a>
+    <td colspan=2 align=center><a href="https://d1d5c01u3njhvi.cloudfront.net/ogNice.aspx">更多内容</a>
     </td>
   </tr>
   <tr>
