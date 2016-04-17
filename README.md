@@ -87,7 +87,7 @@
     <td><a href="https://dxe0nmzvier9d.cloudfront.net/ogST.aspx" target="_blank"><img src="https://dxe0nmzvier9d.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
-    <td><a href="https://dxe0nmzvier9d.cloudfront.net/oogUP.aspx?name=_EA/%CA%AE%C4%EA.mp4&count=http://odisk.org/Up/_EA/%CA%AE%C4%EA.mp4;http://odisk.org/Up/_EE/%CC%CE%B8%E7%D9%A9%B5%E7%D3%B0%A3%BA%CA%AE%C4%EA.mp4|2|%CA%AE%C4%EA|%D5%FD%C6%AC;%CC%CE%B8%E7%D9%A9%B5%E7%D3%B0" target="_blank"><img src=<script type="text/javascript">document.write(encodeURI("https://dxe0nmzvier9d.cloudfront.net/Up/_EA/十年_135.jpg"))</script> /></a></td>
+    <td><a href="https://dxe0nmzvier9d.cloudfront.net/oogUP.aspx?name=_EA/%CA%AE%C4%EA.mp4&count=http://odisk.org/Up/_EA/%CA%AE%C4%EA.mp4;http://odisk.org/Up/_EE/%CC%CE%B8%E7%D9%A9%B5%E7%D3%B0%A3%BA%CA%AE%C4%EA.mp4|2|%CA%AE%C4%EA|%D5%FD%C6%AC;%CC%CE%B8%E7%D9%A9%B5%E7%D3%B0" target="_blank"><img src="https://dxe0nmzvier9d.cloudfront.net/Up/_EA/十年_135.jpg" /></a></td>
   </tr>
   <tr height="20">
   <tr>
