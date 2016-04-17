@@ -87,6 +87,10 @@
     <td><a href="https://d1d5c01u3njhvi.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1d5c01u3njhvi.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
+    <td colspan=2 align=center><a href="https://d1d5c01u3njhvi.cloudfront.net/ogNice.aspx">更多内容……</a></td>
+    </td>
+  </tr>
+  <tr>
     <td colspan=2 align=center>更新<br>
       <a href="https://d1d5c01u3njhvi.cloudfront.net/ogUP.aspx?name=4ESL.mp4" target="_blank">《送礼》</a><br>
       <a href="https://d1d5c01u3njhvi.cloudfront.net/ogUP.aspx?name=4ESY.mp4" target="_blank">《善缘》</a><br>
