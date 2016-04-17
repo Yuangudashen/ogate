@@ -87,7 +87,7 @@
     <td><a href="https://d1d5c01u3njhvi.cloudfront.net/ogST.aspx" target="_blank"><img src="https://d1d5c01u3njhvi.cloudfront.net/Up/0ST.jpg" /></a></td> 
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d1d5c01u3njhvi.cloudfront.net/ogNice.aspx">更多内容……</a></td>
+    <td colspan=2 align=center><a href="https://d1d5c01u3njhvi.cloudfront.net/ogNice.aspx">更多内容……</a>
     </td>
   </tr>
   <tr>
@@ -106,7 +106,7 @@
   <tr>
     <td colspan=2 align=center>友情链接<br>
       <a href="https://git.io/free" target="_blank">https://git.io/free</a><br>
-      <a href="https://git.io/jww" target="_blank">https://git.io/jww</a></td>
+      <a href="https://git.io/jww" target="_blank">https://git.io/jww</a>
     </td>
   </tr>
   <tr>
