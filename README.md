@@ -102,7 +102,7 @@
       <a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
       <a href="https://d1xsjvlqn1zbmi.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a>
-      <a href="https://d1xsjvlqn1zbmi.cloudfront.net/onCO.aspx?ob=600事物&op=增删改&args=WH1~%23用户" target="_blank">网博</a>
+      <a href="https://d1xsjvlqn1zbmi.cloudfront.net/onCO.aspx?ob=600%CA%C2%CE%EF&op=%D4%F6%C9%BE%B8%C4&args=WH1~%23%D3%C3%BB%A7" target="_blank">网博</a>
     </td>
   </tr>
   <tr>
