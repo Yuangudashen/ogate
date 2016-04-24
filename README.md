@@ -21,11 +21,14 @@
   <tr>
     <td rowspan=2><a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=4EE/DJ.mp4&list=4EEDJ" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/4EE/DJ140.jpg"/></a></td>
     <td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=4EE/ZG.mp4&list=4EEZG" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/4EE/ZG0.jpg"/></a></td>
-    <!--td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=4EE/QQ.mp4&list=4EEQQ" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/4EE/QQ0.jpg"/></a></td>
-    <td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=4EE/HQ.mp4&list=4EEHQ" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/4EE/HQ0.jpg"/></a></td-->
+    <!--td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=4EE/HQ.mp4&list=4EEHQ" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/4EE/HQ0.jpg"/></a></td-->
   </tr>
   <tr>
-    <td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/onCO.aspx?list=XWPL&mode=m" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/0WZTT.jpg" /></a></td> 
+    <td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=4EE/QQ.mp4&list=4EEQQ" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/4EE/QQ0.jpg"/></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/onCO.aspx?ob=600%CA%C2%CE%EF&op=%D4%F6%C9%BE%B8%C4&args=WH1~%23%C0%E0%D0%CD6%D0%C2%CE%C5%7c%23%C0%E0%D0%CD6%C6%C0%C2%DB" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/0WZTT.jpg" /></a></td>
+    <td><a href="https://d1xsjvlqn1zbmi.cloudfront.net/onCO.aspx?ob=600%CA%C2%CE%EF&op=%D4%F6%C9%BE%B8%C4&args=WH1~%23%D3%C3%BB%A7" target="_blank"><img src="https://d1xsjvlqn1zbmi.cloudfront.net/Up/0WB.jpg" /></a></td>
   </tr>
   <tr height="20">
   <tr>
@@ -102,7 +105,6 @@
       <a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=11XR.mp4" target="_blank">《血刃》预告片</a><br>
       <a href="https://d1xsjvlqn1zbmi.cloudfront.net/ogUP.aspx?name=11NYZX.mp4&count=2" target="_blank">《难以置信》预告片</a><br>
       <a href="https://d1xsjvlqn1zbmi.cloudfront.net/onUP.aspx?name=https://www.minghui.org/" target="_blank">明慧网</a>
-      <a href="https://d1xsjvlqn1zbmi.cloudfront.net/onCO.aspx?ob=600%CA%C2%CE%EF&op=%D4%F6%C9%BE%B8%C4&args=WH1~%23%D3%C3%BB%A7" target="_blank">网博</a>
     </td>
   </tr>
   <tr>
