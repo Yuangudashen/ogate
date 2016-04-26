@@ -111,6 +111,7 @@
     <td colspan=2 align=center>友情链接<br>
       <a href="https://git.io/free" target="_blank">https://git.io/free</a><br>
       <a href="https://git.io/jww" target="_blank">https://git.io/jww</a>
+      <a href="https://git.io/168" target="_blank">https://git.io/168</a>
     </td>
   </tr>
   <tr>
