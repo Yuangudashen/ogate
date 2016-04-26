@@ -15,7 +15,7 @@
     <td><div><a href="https://d3ubd1a43ps6mb.cloudfront.net/ogUP.aspx?name=LRWS.mp4&list=LRWS" target="_blank"><img src="https://d3ubd1a43ps6mb.cloudfront.net/Up/LRWS.jpg" /></a></td>
    </tr>
   <tr>
-    <td><a href="https://d3ubd1a43ps6mb.cloudfront.net/ogNiceVedio.aspx" target="_blank"><img src="https://d3ubd1a43ps6mb.cloudfront.net/Up/11TGKDY.jpg" /></a></td>
+    <td><a href="https://d3ubd1a43ps6mb.cloudfront.net/ogView.aspx" target="_blank"><img src="https://d3ubd1a43ps6mb.cloudfront.net/Up/11TGKDY.jpg" /></a></td>
   </tr>
   <tr height="20">
   <tr>
