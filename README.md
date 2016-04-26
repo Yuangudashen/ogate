@@ -27,12 +27,12 @@
     <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/QQ.mp4&list=4EEQQ" target="_blank"><img src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/QQ0.jpg"/></a></td>
   </tr>
             <tr>
-                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/HD.mp4&list=4EEHD" target="_blank"><img class="imgog" src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/HD0.jpg"/></a></td>
-                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/GX.mp4&list=4EEGX" target="_blank"><img class="imgog" src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/GX0.jpg"/></a></td>
+                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/HD.mp4&list=4EEHD" target="_blank"><img src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/HD0.jpg"/></a></td>
+                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/GX.mp4&list=4EEGX" target="_blank"><img src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/GX0.jpg"/></a></td>
             </tr>
             <tr>
-                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/TX.mp4&list=4EETX" target="_blank"><img class="imgog" src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/TX0.jpg"/></a></td>
-                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/WZ.mp4&list=4EEWZ" target="_blank"><img class="imgog" src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/WZ0.jpg"/></a></td>
+                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/TX.mp4&list=4EETX" target="_blank"><img src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/TX0.jpg"/></a></td>
+                <td><a href="https://df4vog3c0qa3f.cloudfront.net/ogUP.aspx?name=4EE/WZ.mp4&list=4EEWZ" target="_blank"><img src="https://df4vog3c0qa3f.cloudfront.net/Up/4EE/WZ0.jpg"/></a></td>
             </tr>
   <tr>
     <td><a href="https://df4vog3c0qa3f.cloudfront.net/onCO.aspx?ob=600%CA%C2%CE%EF&op=%D4%F6%C9%BE%B8%C4&args=WH1~%23%C0%E0%D0%CD6%D0%C2%CE%C5%7c%23%C0%E0%D0%CD6%C6%C0%C2%DB" target="_blank"><img src="https://df4vog3c0qa3f.cloudfront.net/Up/0WZ.jpg" /></a></td>
