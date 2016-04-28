@@ -10,10 +10,10 @@
     <td colspan=2><a href="https://d2v1p5ec9yy7b3.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/14880727/0e4ac732-0d63-11e6-8b12-a84959f0ece4.jpg" /></a></td> 
   </tr>
   <tr>
-    <td colspan=2 align=center>可以持续访问本站的唯一永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>不支持IE 6、7、8、9，可选用<a href="https://d2v1p5ec9yy7b3.cloudfront.net/ogUP.aspx?name=0ChromePortable.zip">Chrome</a></td>
+    <td colspan=2 align=center>可以持续访问网门的唯一永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>不支持IE 6、7、8、9，可选用<a href="https://d2v1p5ec9yy7b3.cloudfront.net/ogUP.aspx?name=0ChromePortable.zip">Chrome</a></td>
   </tr>
   <tr>
-    <td colspan=2 align=center><!--a href="https://d2v1p5ec9yy7b3.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br-->安卓版下载网址<br><a href="https://git.io/ogatea">https://git.io/ogatea</a></td>
+    <td colspan=2 align=center><!--a href="https://d2v1p5ec9yy7b3.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br-->网门安卓版下载网址<br><a href="https://git.io/ogatea">https://git.io/ogatea</a></td>
   </tr>
   <tr>
   <!--tr>
