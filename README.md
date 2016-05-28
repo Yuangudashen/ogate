@@ -7,7 +7,7 @@
     <!--br>* IE6打开动态网址须在选项中勾选TLS 1.0--></td>
   </tr>
   <tr>
-    <td colspan=2><a href="https://d2r46newjiiirx.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/14880727/0e4ac732-0d63-11e6-8b12-a84959f0ece4.jpg" /></a></td> 
+    <td colspan=2><a href="https://d2r46newjiiirx.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15625806/78c469e2-24e7-11e6-9d94-d1672a585c6d.jpg" /></a></td> 
   </tr>
   <tr>
     <td colspan=2 align=center>无需翻墙，即可访问网门的永久网址，请收藏<br/><a href="https://git.io/ogate" target="_blank">https://git.io/ogate</a><br/>* http后一定要跟s<br/>不支持IE 6、7、8、9，可选用<a href="https://d2r46newjiiirx.cloudfront.net/ogUP.aspx?name=2A/ChromePortable.zip">Chrome</a></td>
