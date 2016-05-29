@@ -13,7 +13,7 @@
     <td colspan=2 align=center>紧急更新<br/>无需翻墙，即可访问网门的永久网址，请收藏<br/><a href="https://github.com/ogate/ogate/blob/master/README.md" target="_blank">https://github.com/ogate/ogate</a><br/>* http后一定要跟s<br/>不支持IE 6-10，可选用<a href="https://d1kdc2vqja5paq.cloudfront.net/ogUP.aspx?name=2A/ChromePortable.zip">Chrome</a></td>
   </tr>
   <tr>
-    <td colspan=2 align=center><!--a href="https://d1kdc2vqja5paq.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br--><a href="https://d1kdc2vqja5paq.cloudfront.net/ogUP.aspx?name=2A/oGate.apk">网门安卓版下载</a></td>
+    <td colspan=2 align=center><!--a href="https://d1kdc2vqja5paq.cloudfront.net/ogUP.aspx?name=0oGate.apk" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/13720399/75e143ee-e842-11e5-9f0a-1421f423c80f.jpg" /></a><br--><a href="https://d1kdc2vqja5paq.cloudfront.net/ogUP.aspx?name=2A/oGate101.apk">网门安卓版下载</a></td>
   </tr>
   <tr>
   <!--tr>
