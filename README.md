@@ -1,7 +1,7 @@
 ﻿<table>
   <tr></tr>
   <!--tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr-->
-  <tr><td colspan=2 align=center>网门<br/>
+  <tr><td colspan=2 align=center>网门
 <br>https://d29ee3rcdsr6yy.cloudfront.net
     <br/>最新动态网址，请点击进入<br/>每小时变换一次，可随时获取<br/>微信用户，需手工复制到浏览器地址栏<br>或尝试点击右上角三个点，选择在浏览器中打开
     <!--br>* IE6打开动态网址须在选项中勾选TLS 1.0--></td>
