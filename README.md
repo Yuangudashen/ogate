@@ -22,6 +22,13 @@
   <tr>
   <tr>
     <td colspan=2 align=center>可能失效的动态网址
+<br>https://d1d4l1rbllg9u8.cloudfront.net
+<br>https://d1mg02my4wdxh4.cloudfront.net
+<br>https://d1xftstir1yx48.cloudfront.net
+<br>https://d3m5t1u5h08j7f.cloudfront.net
+<br>https://dtbgwt17aiksn.cloudfront.net
+<br>https://d181w8w8y0cxzg.cloudfront.net
+<br>https://d3q7q1tmja5p46.cloudfront.net
     </td>
   </tr>
 </table>
