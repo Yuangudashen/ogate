@@ -3,37 +3,37 @@
   <!--tr><td colspan=2 align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td></tr-->
   <tr>
     <td colspan=2 align=center>网门 網門<br/><br/>
-    欢迎来到《网门》永久导航页面<br/>
+    欢迎来到《网门》永久网址页面<br/>
     一一中国禁闻全球真相总入口<br/>
     本页面永久有效，敬请收藏
     </td>
   </tr>
   <tr>
     <td colspan=2 align=center>
-    <a href="https://d1cd2nf67ohwir.cloudfront.net/?from=github" target="_blank">请点击进入动态浏览页面</a><br/>
+    <a href="https://d2guhyrai7g2dg.cloudfront.net/?from=github" target="_blank">请点击进入动态浏览页面</a><br/>
     微信里直接点击打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     <!--br/><br/>海外直连网址 <a href="http://www.ogate.org/oGate.aspx?from=githubo" target="_blank">www.ogate.org</a-->
     <!--br>* IE6打开动态网址须在选项中勾选TLS 1.0-->
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d1cd2nf67ohwir.cloudfront.net/?from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td> 
+    <td colspan=2 align=center><a href="https://d2guhyrai7g2dg.cloudfront.net/?from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td> 
   </tr>
   <tr>
     <td colspan=2 align=center>
       网门网址
       <a href="https://github.com/ogate/ogate/blob/master/README.md?web" target="_blank">https://git.io/ogate</a><br>
       网门安卓版
-      <a href="https://d1cd2nf67ohwir.cloudfront.net/ogUP.aspx?name=2A%2FoGate.apk">https://git.io/ogatea</a><br/>
+      <a href="https://d2guhyrai7g2dg.cloudfront.net/ogUP.aspx?name=2A%2FoGate.apk">https://git.io/ogatea</a><br/>
       http后一定要跟s，不支持IE6-10
     </td>
   </tr>
   <tr>
     <td colspan=2 align=center>国产浏览器屏蔽本页面，可选用谷歌浏览器<br/>
       谷歌安卓版
-      <a href="https://d1cd2nf67ohwir.cloudfront.net/ogUP.aspx?name=2A%2FChrome.apk">https://git.io/chromea</a><br/>
+      <a href="https://d2guhyrai7g2dg.cloudfront.net/ogUP.aspx?name=2A%2FChrome.apk">https://git.io/chromea</a><br/>
       谷歌电脑版
-      <a href="https://d1cd2nf67ohwir.cloudfront.net/ogUP.aspx?name=2A%2FChrome.zip">https://git.io/chromew</a>
+      <a href="https://d2guhyrai7g2dg.cloudfront.net/ogUP.aspx?name=2A%2FChrome.zip">https://git.io/chromew</a>
     </td>
   </tr>
   <tr>
