@@ -5,13 +5,13 @@
     <td colspan=2 align=center>网门 網門<br/>
       欢迎来到固定网址页面，敬请收藏
       <a href="https://github.com/ogate/ogate/blob/master/README.md?ogWeb" target="_blank">https://git.io/ogate</a><br>
-      安卓版 <a href="https://d3jh9xxzobd895.cloudfront.net/ogUP.aspx?list=2A%2FOGATEA">https://git.io/ogatea</a><br/>
+      安卓版 <a href="https://dql17zclh85un.cloudfront.net/ogUP.aspx?list=2A%2FOGATEA">https://git.io/ogatea</a><br/>
       海外直连 <a href="https://www.ogate.org/ogUP.aspx?name=oGate&from=githubo" target="_blank">https://www.ogate.org</a>
     </td>
   </tr>
   <tr>
     <td colspan=2 align=center>
-    <a href="https://d3jh9xxzobd895.cloudfront.net/?from=github" target="_blank">请点击进入动态网址页面</a><br/>
+    <a href="https://dql17zclh85un.cloudfront.net/?from=github" target="_blank">请点击进入动态网址页面</a><br/>
       微信里直接点击打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     </td>
   </tr>
@@ -22,12 +22,12 @@
   </tr>
   <tr>
     <td colspan=2 align=center>国产浏览器屏蔽本页面，可选用谷歌浏览器<br/>
-      谷歌安卓版 <a href="https://d3jh9xxzobd895.cloudfront.net/ogUP.aspx?list=2A%2FCHROMEA">https://git.io/chromea</a><br/>
-      谷歌电脑版 <a href="https://d3jh9xxzobd895.cloudfront.net/ogUP.aspx?list=2A%2FCHROMEW">https://git.io/chromew</a>
+      谷歌安卓版 <a href="https://dql17zclh85un.cloudfront.net/ogUP.aspx?list=2A%2FCHROMEA">https://git.io/chromea</a><br/>
+      谷歌电脑版 <a href="https://dql17zclh85un.cloudfront.net/ogUP.aspx?list=2A%2FCHROMEW">https://git.io/chromew</a>
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d3jh9xxzobd895.cloudfront.net/?from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td> 
+    <td colspan=2 align=center><a href="https://dql17zclh85un.cloudfront.net/?from=github" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td> 
   </tr>
   <tr>
     <td colspan=2 align=center>大陆用户无需翻墙，<br/>
