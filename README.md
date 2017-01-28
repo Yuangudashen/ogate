@@ -7,7 +7,7 @@
   </tr>
   <tr>
     <td colspan=2 align=center>
-    <a href="https://d3gss2sizalua1.cloudfront.net/?from=ogGit" target="_blank">大陆请点击进入动态网址页面</a><br/>
+    <a href="https://d18c38nwxqrjfx.cloudfront.net/?from=ogGit" target="_blank">大陆请点击进入动态网址页面</a><br/>
       微信里直接点击打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     </td>
   </tr>
@@ -25,7 +25,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d3gss2sizalua1.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d18c38nwxqrjfx.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>大陆用户无需翻墙，<br/>
