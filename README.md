@@ -8,7 +8,7 @@
   <tr>
     <td colspan=2 align=center>
       <a href="https://www.ogate.org/ogUP.aspx?name=oGate&from=ogGito" target="_blank">https://www.ogate.org（海外）</a><br/>
-      <a href="https://d2dru50ija3aqq.cloudfront.net/?from=ogGit" target="_blank">请点击进入动态网址页面（大陆）</a><br/>
+      <a href="https://d1usi062kqa8zw.cloudfront.net/?from=ogGit" target="_blank">请点击进入动态网址页面（大陆）</a><br/>
       微信中直接点击如打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     </td>
   </tr>
@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d2dru50ija3aqq.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d1usi062kqa8zw.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>大陆用户无需翻墙，<br/>
@@ -30,7 +30,6 @@
 《网门》无需翻墙突破网络封锁，<br/>是稳定长效的安全网址。<br/>
 只要把网址保存在手机浏览器书签中，<br/>或保存在电脑浏览器收藏夹中，<br/>
 就可以随时打开《网门》，<br/>
-分享全球菁萃资源。<br/>
-    </td>
+分享全球菁萃资源。</td>
   </tr>
 </table>
