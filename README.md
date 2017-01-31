@@ -7,8 +7,8 @@
   </tr>
   <tr>
     <td colspan=2 align=center>
-      <a href="https://d2hfsg2agz08i.cloudfront.net/?from=ogGit" target="_blank">请点击进入动态网址页面</a>（大陆）<br/>
-      <a href="https://www.ogate.org/ogUP.aspx?name=oGate&from=ogGito" target="_blank">https://www.ogate.org</a>（海外）<br/>
+      <a href="https://d1fyig04uzdina.cloudfront.net/?from=ogGit" target="_blank">请点击进入动态网址页面（大陆）</a><br/>
+      <a href="https://www.ogate.org/ogUP.aspx?name=oGate&from=ogGito" target="_blank">https://www.ogate.org（海外）</a><br/>
       微信中直接点击如打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     </td>
   </tr>
@@ -20,7 +20,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d2hfsg2agz08i.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d1fyig04uzdina.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>大陆用户无需翻墙，<br/>
@@ -28,8 +28,9 @@
 《网门》揭开网络时代的新视角，<br/>引领网络时代的新风尚。<br/>
 《网门》适合手机、平板、电脑等<br/>所有网络终端用户。<br/>
 《网门》无需翻墙突破网络封锁，<br/>是稳定长效的安全网址。<br/>
-只要把网址保存在手机浏览器书签中，<br/>或保存在电脑浏览器收藏夹中，
-<br/>就可以随时打开《网门》，<br/>分享全球菁萃资源。
+只要把网址保存在手机浏览器书签中，<br/>或保存在电脑浏览器收藏夹中，<br/>
+就可以随时打开《网门》，<br/>
+分享全球菁萃资源。<br/>
     </td>
   </tr>
 </table>
