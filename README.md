@@ -10,7 +10,7 @@
   <tr>
     <td colspan=2 align=center>
       <a href="https://www.ogate.org/ogUP.aspx?name=oGate&from=ogGito" target="_blank">https://www.ogate.org</a><br/>
-      <a href="https://d2lqe36mcfev6b.cloudfront.net/?from=ogGit" target="_blank">大陆请点击进入动态网址页面</a><br/>
+      <a href="https://d3pj11jdjiweh8.cloudfront.net/?from=ogGit" target="_blank">大陆请点击进入动态网址页面</a><br/>
       微信中直接点击如打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     </td>
   </tr>
@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d2lqe36mcfev6b.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d3pj11jdjiweh8.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>
