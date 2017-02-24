@@ -22,7 +22,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d298raktkmfgda.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d29kj70xlqby8z.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>
