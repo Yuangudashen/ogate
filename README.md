@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态网址页面<br/>
-      <a href="https://d7227k1erubdl.cloudfront.net/oGate.htm?from=ogGit1" target="_blank">动态网址一</a><br/>
+      <a href="https://d185p830f94jz0.cloudfront.net/oGate.htm?from=ogGit1" target="_blank">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm?from=ogGit2" target="_blank">动态网址二</a><br/>
       微信中直接点击如打不开，请先点击<br/>右上角三个点，选择在浏览器中打开
     </td>
@@ -23,7 +23,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d7227k1erubdl.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d185p830f94jz0.cloudfront.net/?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>
