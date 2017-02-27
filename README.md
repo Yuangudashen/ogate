@@ -9,23 +9,24 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态网址页面<br/>
-      <a href="https://d2jg9p8nzyzfc3.cloudfront.net/oGate.htm?from=ogGitn" target="_blank">动态网址一</a><br/>
-      <a href="https://d2jg9p8nzyzfc3.cloudfront.net/oGate.htm" target="_blank">动态网址二</a><br/>
-      <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">动态网址三</a><br/>
-      微信中如直接点击打不开，请先点击<br/>右上角三个点，选择在浏览器中打开<br/>
-      微信中如提示非官方网站，请点击访问原网站
+      <a href="https://d3i1qo7f6rhu5y.cloudfront.net/oGate.htm?from=ogGit" target="_blank">动态网址一</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/ogate.htm?from=ogGit" target="_blank">动态网址二</a><br/>
+      <a href="https://d3i1qo7f6rhu5y.cloudfront.net/oGate.htm" target="_blank">动态网址三</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">动态网址四</a><br/>
+      微信中如直接点击打不开，请点击<br/>右上角三个点，选在浏览器中打开<br/>
+      如提示非官方网站，请点击原网站
     </td>
   </tr>
   <tr>
     <td colspan=2 align=center>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk" target="_blank">https://git.io/ogatea</a><br/>
       电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip" target="_blank">https://git.io/ogatew</a><br/>
-      本页面 <a href="https://github.com/ogate/ogate/blob/master/README.md?ogSelf" target="_blank">https://github.com/ogate/ogate</a><br>
-      海外直连 <a href="https://ogate.org/oGate.htm?from=ogGito2" target="_blank">https://ogate.org</a><br/>
+      本页面 <a href="https://github.com/ogate/ogate/blob/master/README.md?ogSelf" target="_blank">https://git.io/ogate</a><br>
+      海外直连 <a href="https://ogate.org/oGate.htm?from=ogGito" target="_blank">https://ogate.org</a><br/>
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d2jg9p8nzyzfc3.cloudfront.net/oGate.htm?from=ogGitn" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://d3i1qo7f6rhu5y.cloudfront.net/oGate.htm?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>
