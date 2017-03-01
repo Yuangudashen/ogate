@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态网址页面<br/>
-      <a href="https://d30pt2wcfq129w.cloudfront.net/oGate.htm?from=ogGit" target="_blank">动态网址一</a><br/>
-      <a href="https://d30pt2wcfq129w.cloudfront.net/oGate.htm" target="_blank">动态网址二</a><br/>
+      <a href="https://dismdc9m31sov.cloudfront.net/oGate.htm?from=ogGit" target="_blank">动态网址一</a><br/>
+      <a href="https://dismdc9m31sov.cloudfront.net/oGate.htm" target="_blank">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">动态网址三</a><br/>
       微信中如直接点击打不开，请点击<br/>右上角三个点，选在浏览器中打开<br/>
       如提示非官方网站，请点击原网站
@@ -25,7 +25,7 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center><a href="https://d30pt2wcfq129w.cloudfront.net/oGate.htm?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
+    <td colspan=2 align=center><a href="https://dismdc9m31sov.cloudfront.net/oGate.htm?from=ogGit" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg" /></a></td>
   </tr>
   <tr>
     <td colspan=2 align=center>
