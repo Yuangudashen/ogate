@@ -9,10 +9,10 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态传送门页面<br/>
-      <a href="https://d37bolw195mb4o.cloudfront.net/oGate.htm?from=ogGitz" target="_blank">传送门一</a><br/>
+      <a href="https://d3dsgyyh4mf94b.cloudfront.net/oGate.htm?from=ogGitz" target="_blank">传送门一</a><br/>
       <a href="https://oog.azureedge.net/" target="_blank">传送门二</a><br/>
-      <a href="https://d37bolw195mb4o.cloudfront.net/oGate.htm?from=ogGit" target="_blank">传送门三</a><br/>
-      <a href="https://d37bolw195mb4o.cloudfront.net/oGate.htm" target="_blank">传送门四</a><br/>
+      <a href="https://d3dsgyyh4mf94b.cloudfront.net/oGate.htm?from=ogGit" target="_blank">传送门三</a><br/>
+      <a href="https://d3dsgyyh4mf94b.cloudfront.net/oGate.htm" target="_blank">传送门四</a><br/>
       微信中如直接点击打不开，请点击<br/>右上角三个点，选在浏览器中打开<br/>
       如提示非官方网站，请点击原网站
     </td>
@@ -39,8 +39,7 @@
 就可以随时打开《网门》，<br/>
 分享全球菁萃资源。<br/></td>
   </tr>
-</table>
-
-<br><br><br><br><br><br>
-
-      <a href="https://www.baidu.com/" target="_blank">不要点百度</a><br/>
+  <tr>
+    <td colspan=2 align=center><br><br><br><br><br><br><a href="https://www.baidu.com/" target="_blank">不要点百度</a></td>
+  </tr>
+</table>    
