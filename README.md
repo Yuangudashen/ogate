@@ -11,11 +11,11 @@
     <td colspan=2 align=center>大陆请点击进入动态入口页面<br/>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">网门入口一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">网门入口二</a><br/>
-      <a href="https://dael1gvdg1jz8.cloudfront.net/oGatez.htm" target="_blank">网门入口三</a><br/>
-      <a href="https://dael1gvdg1jz8.cloudfront.net/oGate.htm" target="_blank">网门入口四</a><br/>
+      <a href="https://d22jrpg78auopt.cloudfront.net/oGatez.htm" target="_blank">网门入口三</a><br/>
+      <a href="https://d22jrpg78auopt.cloudfront.net/oGate.htm" target="_blank">网门入口四</a><br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
-      如提示非官方网站，请点原网站<br/><br/>
+      如提示非官方网站，请点原网站<br/>
       本页面如放置过久，请刷新一下<br/>
       如打不开动态入口，请稍候再试<br/>
     </td>
