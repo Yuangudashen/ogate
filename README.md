@@ -12,9 +12,9 @@
       <a href="https://s3.amazonaws.com/ogate/ogate.htm?from=ogGitz" target="_blank">网门入口</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">网门入口</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGates.htm" target="_blank">网门入口</a><br/>
-      <a href="https://d248y7rpct4rt1.cloudfront.net/oGate.htm?from=ogGitz" target="_blank">网门入口</a><br/>
-      <a href="https://d248y7rpct4rt1.cloudfront.net/oGate.htm" target="_blank">网门入口</a><br/>
-      <a href="https://d248y7rpct4rt1.cloudfront.net/oGates.htm" target="_blank">网门入口</a><br/>
+      <a href="https://d2f30ok1b1d00z.cloudfront.net/oGate.htm?from=ogGitz" target="_blank">网门入口</a><br/>
+      <a href="https://d2f30ok1b1d00z.cloudfront.net/oGate.htm" target="_blank">网门入口</a><br/>
+      <a href="https://d2f30ok1b1d00z.cloudfront.net/oGates.htm" target="_blank">网门入口</a><br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
       如提示非官方网站，请点原网站<br/><br/>
