@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态入口页面<br/>
-      <a href="https://d3ux4uw6wq2v77.cloudfront.net/oGates.htm" target="_blank">网门入口一</a><br/>
-      <a href="https://d3ux4uw6wq2v77.cloudfront.net/oGate.htm?from=ogGitz" target="_blank">网门入口二</a><br/>
-      <a href="https://d3ux4uw6wq2v77.cloudfront.net/oGate.htm?from=ogGitc" target="_blank">网门入口三</a><br/>
+      <a href="https://d36tyu6zqywma6.cloudfront.net/oGates.htm" target="_blank">网门入口一</a><br/>
+      <a href="https://d36tyu6zqywma6.cloudfront.net/oGate.htm?from=ogGitz" target="_blank">网门入口二</a><br/>
+      <a href="https://d36tyu6zqywma6.cloudfront.net/oGate.htm?from=ogGitc" target="_blank">网门入口三</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm?from=ogGits" target="_blank">网门入口四</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm?from=ogGitz" target="_blank">网门入口五</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm?from=ogGitc" target="_blank">网门入口六</a><br/>
