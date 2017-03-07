@@ -11,8 +11,8 @@
     <td colspan=2 align=center>大陆请点击进入动态入口页面<br/>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">网门入口一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">网门入口二</a><br/>
-      <a href="https://d2mqzi65hqgqyy.cloudfront.net/oGatez.htm" target="_blank">网门入口三</a><br/>
-      <a href="https://d2mqzi65hqgqyy.cloudfront.net/oGate.htm" target="_blank">网门入口四</a><br/>
+      <a href="https://d2ux68vac25iep.cloudfront.net/oGatez.htm" target="_blank">网门入口三</a><br/>
+      <a href="https://d2ux68vac25iep.cloudfront.net/oGate.htm" target="_blank">网门入口四</a><br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
       如提示非官方网站，请点原网站<br/>
@@ -23,6 +23,11 @@
   <tr>
     <td colspan=2 align=center>
       谢谢大家点击广告，一天只一次<br/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan=2 align=center>
+      <a href="https://raw.githubusercontent.com/ogate/up/master/oGate.zip" target="_blank">电脑快捷版</a><br/>
     </td>
   </tr>
   <tr>
