@@ -9,10 +9,10 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态入口页面<br/>
-      <a href="https://s3.amazonaws.com/ogate/ogate.htm" target="_blank">网门入口一</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/oGatec.htm" target="_blank">网门入口一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">网门入口二</a><br/>
-      <a href="https://d2qncdoao1t8r6.cloudfront.net/oGate.htm" target="_blank">网门入口三</a><br/>
-      <a href="https://d2qncdoao1t8r6.cloudfront.net/oGatez.htm" target="_blank">网门入口四</a><br/>
+      <a href="https://d35d8o1qvo0f9j.cloudfront.net/oGatec.htm" target="_blank">网门入口三</a><br/>
+      <a href="https://d35d8o1qvo0f9j.cloudfront.net/oGatez.htm" target="_blank">网门入口四</a><br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
       如提示非官方网站，请点原网站<br/>
