@@ -9,8 +9,8 @@
   </tr>
   <tr>
     <td colspan=2 align=center>大陆请点击进入动态入口页面<br/>
-      <a href="https://d3ey9fxpm2wvzt.cloudfront.net/oGate.htm" target="_blank">网门入口一</a><br/>
-      <a href="https://d3ey9fxpm2wvzt.cloudfront.net/oGatez.htm" target="_blank">网门入口二</a><br/>
+      <a href="https://dusha37w0bs26.cloudfront.net/oGate.htm" target="_blank">网门入口一</a><br/>
+      <a href="https://dusha37w0bs26.cloudfront.net/oGatez.htm" target="_blank">网门入口二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm" target="_blank">网门入口一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/ogatez.htm" target="_blank">网门入口二</a><br/>
       微信中如直接点击打不开，请点<br/>
