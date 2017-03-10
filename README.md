@@ -9,16 +9,17 @@
     </td>
   </tr>
   <tr>
-    <td colspan=2 align=center>大陆请点击进入：动态网址页面<br/>
+    <td colspan=2 align=center>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm" target="_blank">动态网址二</a><br/>
-      <a href="https://d3qiac6nb8y8bb.cloudfront.net/oGatez.htm" target="_blank">动态网址三</a><br/>
-      <a href="https://d3qiac6nb8y8bb.cloudfront.net/oGatec.htm" target="_blank">动态网址四</a><br/>
+      <a href="https://d3jhfognjvn5qb.cloudfront.net/oGatez.htm" target="_blank">动态网址三</a><br/>
+      <a href="https://d3jhfognjvn5qb.cloudfront.net/oGatec.htm" target="_blank">动态网址四</a><br/>
+      大陆请点击进入：动态网址页面<br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
       如提示非官方网站，请点原网站<br/>
       本页面如放置过久，请刷新一下<br/>
-      如打不开动态入口，请稍候再试<br/>
+      如打不开动态网址，请稍候再试<br/>
     </td>
   </tr>
   <tr>
