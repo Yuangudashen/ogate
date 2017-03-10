@@ -11,8 +11,8 @@
     <td colspan=2 align=center>大陆请点击进入动态入口页面<br/>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">网门入口一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm" target="_blank">网门入口二</a><br/>
-      <a href="https://dqenv0zfqsgrn.cloudfront.net/oGatez.htm" target="_blank">网门入口三</a><br/>
-      <a href="https://dqenv0zfqsgrn.cloudfront.net/oGatec.htm" target="_blank">网门入口四</a><br/>
+      <a href="https://dk2t1r3vbg6gn.cloudfront.net/oGatez.htm" target="_blank">网门入口三</a><br/>
+      <a href="https://dk2t1r3vbg6gn.cloudfront.net/oGatec.htm" target="_blank">网门入口四</a><br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
       如提示非官方网站，请点原网站<br/>
