@@ -12,8 +12,8 @@
     <td colspan=2 align=center>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm" target="_blank">动态网址二</a><br/>
-      <a href="https://d16gmh6wkj7fkd.cloudfront.net/oGatez.htm" target="_blank">动态网址三</a><br/>
-      <a href="https://d16gmh6wkj7fkd.cloudfront.net/oGatec.htm" target="_blank">动态网址四</a><br/>
+      <a href="https://d2r1h5ct541arl.cloudfront.net/oGatez.htm" target="_blank">动态网址三</a><br/>
+      <a href="https://d2r1h5ct541arl.cloudfront.net/oGatec.htm" target="_blank">动态网址四</a><br/>
       大陆请点击进入：动态网址页面<br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
