@@ -10,11 +10,11 @@
   </tr>
   <tr>
     <td colspan=2 align=center>
-      <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitc" target="_blank">动态网址一</a><br/>
-      <a href="https://dd5se37158mec.cloudfront.net/?from=ogGitc" target="_blank">动态网址二</a><br/>
-      <a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank">动态网址三</a><br/>
-      <a href="https://dd5se37158mec.cloudfront.net/oGatez.htm" target="_blank">动态网址四</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitc" target="_blank">动态网址一</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitz" target="_blank">动态网址二</a><br/>
       大陆请点击进入：动态网址页面<br/>
+      <a href="https://dk1b5qqk7ea5k.cloudfront.net/?from=ogGitc" target="_blank">动态网址三</a><br/>
+      <a href="https://dk1b5qqk7ea5k.cloudfront.net/?from=ogGitz" target="_blank">动态网址四</a><br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
       如提示非官方网站，请点原网站<br/>
