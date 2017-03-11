@@ -11,7 +11,7 @@
   <tr>
     <td colspan=2 align=center>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm" target="_blank">动态网址一</a><br/>
-      <a href="https://d25d9c6b8teeu4.cloudfront.net/oGatec.htm" target="_blank">动态网址二</a><br/>
+      <a href="https://d1ufnq40kfpujj.cloudfront.net/oGatec.htm" target="_blank">动态网址二</a><br/>
       大陆请点击进入：动态网址页面<br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
