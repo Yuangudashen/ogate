@@ -13,8 +13,8 @@
       <a href="https://s3.amazonaws.com/ogate/oGates.htm?from=ogGits" target="_blank">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatez.htm?from=ogGitz" target="_blank">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitc" target="_blank">动态网址三</a><br/>
-      <a href="https://d359jy3ci5l9gy.cloudfront.net/?from=ogGitz" target="_blank">动态网址四</a><br/>
-      <a href="https://d359jy3ci5l9gy.cloudfront.net/?from=ogGitc" target="_blank">动态网址五</a><br/>
+      <a href="https://d10tidfytpo0ys.cloudfront.net/?from=ogGitz" target="_blank">动态网址四</a><br/>
+      <a href="https://d10tidfytpo0ys.cloudfront.net/?from=ogGitc" target="_blank">动态网址五</a><br/>
       大陆请点击进入：动态网址页面<br/>
       微信中如直接点击打不开，请点<br/>
       右上角三个点，在浏览器中打开<br/>
