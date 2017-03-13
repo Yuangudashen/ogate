@@ -13,10 +13,7 @@
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitz" target="_blank">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitc" target="_blank">动态网址二</a><br/>
       大陆请点击进入：动态网址页面<br/>
-      <a href="https://d4zuplfkglfjx.cloudfront.net/?from=ogGitz" target="_blank">动态网址三</a><br/>
-      <a href="https://d4zuplfkglfjx.cloudfront.net/?from=ogGitc" target="_blank">动态网址四</a><br/>
-      微信中如直接点击打不开，请点<br/>
-      右上角三个点，在浏览器中打开<br/>
+      微信须先点右上角，浏览器打开<br/>
       如提示非官方网站，请点原网站<br/>
       本页面如放置过久，请刷新一下<br/>
       如打不开动态网址，请稍候再试<br/>
