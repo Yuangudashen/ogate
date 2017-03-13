@@ -14,9 +14,7 @@
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitz">网门动态网址入口二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitc">网门动态网址入口三</a><br/>
       微信须先点右上角，浏览器打开<br/>
-      如提示非官方网站，请点原网站<br/>
-      如本页面放置过久，请刷新一下<br/>
-      如打不开动态网址，请稍候再试<br/>
+      如打不开动态网址，请刷新一下<br/>
     </td>
   </tr>
   <tr>
