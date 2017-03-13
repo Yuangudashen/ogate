@@ -1,7 +1,7 @@
 ﻿<table>
   <tr></tr>
   <tr>
-    <td align=center><a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></a></td>
+    <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></td>
   </tr>
   <!--tr>
     <td align=center><img src="https://cloud.githubusercontent.com/assets/11880933/13434984/f430fae2-e012-11e5-814f-c2df1e82b247.jpg" /></td>
@@ -80,9 +80,6 @@
 <tr><td align="center"><a href="https://s3.amazonaws.com/ogate/oGate.htm?c813697&from=ogGits">袁斌：中共活摘法轮功学员器官的新证据 2017-03-13 16:08</a></td></tr>
 <tr><td align="center"><a href="https://s3.amazonaws.com/ogate/oGate.htm?c813704&from=ogGits">韩国人气偶像晒乐天糖果照 遭陆民围攻 2017-03-13 15:54</a></td></tr>
 
-  <tr>
-    <td align=center><a href="https://s3.amazonaws.com/ogate/oGatez.htm" target="_blank"><img src="https://cloud.githubusercontent.com/assets/11880933/15631437/70d0a74e-259d-11e6-946f-6237b4b657bd.jpg"/></a></td>
-  </tr>
   <tr>
     <td align=center>
 大陆用户无需翻墙，<br/>
