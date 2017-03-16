@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://oa1356469302.azureedge.net/?from=ogGitzo">动态网址一</a><br/>
+      <a href="https://oa564442663.azureedge.net/?from=ogGitzo">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGitz">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGitc">动态网址三</a><br/>
       微信须先点右上角，浏览器打开<br/>
