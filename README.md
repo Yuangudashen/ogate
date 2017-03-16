@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://oa63387285.azureedge.net/?from=ogGitzo">动态网址一</a>
+      <a href="https://oa1672208388.azureedge.net/?from=ogGitzo">动态网址一</a>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGitz">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGits">动态网址三</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGitc">动态网址四</a><br/>
