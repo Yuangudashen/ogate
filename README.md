@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://oa1337766587.azureedge.net/?from=ogGitzo">动态网址一</a>
+      <a href="https://oa1694726796.azureedge.net/?from=ogGitzo">动态网址一</a>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGitz">动态网址二</a><br/>
-      <a href="https://d24mwobogt1s0.cloudfront.net/?from=ogGitco">动态网址三</a>
+      <a href="https://d3v5y7k8l2lakm.cloudfront.net/?from=ogGitco">动态网址三</a>
       <a href="https://s3.amazonaws.com/ogate/oGate.aspx?from=ogGitc">动态网址四</a><br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新一下<br/>
