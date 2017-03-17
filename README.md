@@ -10,7 +10,7 @@
   <tr>
     <td align=center>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitc">动态网址一</a><br/>
-      <a href="https://oa1734271800.azureedge.net/?from=ogGitz">动态网址二</a><br/>
+      <a href="https://oa119752477.azureedge.net/?from=ogGitz">动态网址二</a><br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新一下<br/>
     </td>
@@ -19,7 +19,7 @@
     <td align=center>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
       电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/ogatew</a><br/>
-      本页面 https://git.io/ogate<br/>
+      本页面 https://github.com/ogate/ogate<br/>
       海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/>
     </td>
   </tr>
