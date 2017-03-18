@@ -12,9 +12,9 @@
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitcc">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitzz">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitss">动态网址三</a><br/>
-      <a href="https://s701896004.aovery.info/?from=ogGits">动态网址四</a><br/>
-      <a href="https://oa1771970882.azureedge.net/?from=ogGitz">动态网址五</a><br/>
-      <a href="https://d3b3rc4562plw1.cloudfront.net/?from=ogGitc">动态网址六</a><br/>
+      <a href="https://s1624038589.aovery.info/?from=ogGits">动态网址四</a><br/>
+      <a href="https://oa362736514.azureedge.net/?from=ogGitz">动态网址五</a><br/>
+      <a href="https://d2dmek7125cns8.cloudfront.net/?from=ogGitc">动态网址六</a><br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
     </td>
