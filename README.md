@@ -10,9 +10,9 @@
   <tr>
     <td align=center>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGit">动态网址一</a><br/>
-      <a href="https://1421228610.aovery.info/?from=ogGits">动态网址二</a><br/>
-      <a href="https://oa800576205azureedge.net/?from=ogGitz">动态网址三</a><br/>
-      <a href="https://d36i3b93hnrpzy.cloudfront.net/?from=ogGitc">动态网址四</a><br/>
+      <a href="https://1190074943.aovery.info/?from=ogGits">动态网址二</a><br/>
+      <a href="https://oa278876960azureedge.net/?from=ogGitz">动态网址三</a><br/>
+      <a href="https://df8w04n5d6l9g.cloudfront.net/?from=ogGitc">动态网址四</a><br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
     </td>
