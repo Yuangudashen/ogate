@@ -13,9 +13,9 @@
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitcc">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitzz">动态网址三</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitss">动态网址四</a><br/>
-      https://d1q4yrw5p1o8rf-cloudfront-net/<br/>
-      https://oggz0117918701-azureedge-net/<br/>
-      https://1656436248-aovery-info/<br/>
+      https://dbekcny2gszzr-cloudfront-net/<br/>
+      https://oggz01118528434-azureedge-net/<br/>
+      https://356144477-aovery-info/<br/>
       （请手工将-换成.）<br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
