@@ -13,7 +13,7 @@
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">大陆请点击进入动态网址</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatezz.htm?from=ogGitaa2">大陆请点击进入动态网址二</a><br/>
       <a href="https://01158865804.azureedge./">手动动态网址一</a><br/>
-      <a href="https://dpmafbj7vv9f8.cloudfront./">手动动态网址二</a><br/>
+      <a href="https://d112mxehfyjhoo.cloudfront./">手动动态网址二</a><br/>
       （请手工加上net）<br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
