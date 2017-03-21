@@ -9,9 +9,10 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="MyURLc?from=ogGitc">动态网址五</a><br/>
-      <a href="MyURLz?from=ogGitz">动态网址六</a><br/>
-      <a href="MyURLs?from=ogGits">动态网址七</a><br/>
+      <a href="https://d29uc1p2vrhqo0.cloudfront.net/?from=ogGitc">动态网址五</a><br/>
+      <a href="https://oggz01810152247.azureedge.net/?from=ogGitz">动态网址六</a><br/>
+      <a href="https://232900470.oggnew.info/?from=ogGits">动态网址七</a><br/>
+      ------------------------------------ （请手工将-换成.）<br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitcc">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitzz">动态网址三</a><br/>
