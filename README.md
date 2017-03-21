@@ -11,8 +11,8 @@
   <tr>
     <td align=center>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">大陆请点击进入动态网址</a><br/>
-      https://01371991007-azureedge-net/<br/>
-      https://d3q90y6cmgyy02-cloudfront-net/<br/>
+      https://0762127254-azureedge-net/<br/>
+      https://d2c4hob2ow0jpm-cloudfront-net/<br/>
       （请手工将-换成.）<br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
