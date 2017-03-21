@@ -12,8 +12,8 @@
     <td align=center>大陆请点击进入<br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatezz.htm?from=ogGitaa2">动态网址二</a><br/>
-      <a href="https://0667037631.azureedge./">手动动态网址一</a><br/>
-      <a href="https://d2n17qisr10wzm.cloudfront./">手动动态网址二</a><br/>
+      <a href="https://01270472889.azureedge./">手动动态网址一</a><br/>
+      <a href="https://d274975ommw7um.cloudfront./">手动动态网址二</a><br/>
       （请手工加上net）<br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
