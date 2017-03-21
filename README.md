@@ -12,7 +12,7 @@
     <td align=center>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">大陆请点击进入动态网址</a><br/>
       https://01251750997-azureedge-net/<br/>
-      https://d3scp156entlgj-cloudfront-net/<br/>
+      https://d2n78vk2jwn7zu-cloudfront-net/<br/>
       （请手工将-换成.）<br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
@@ -26,7 +26,7 @@
   <tr>
     <td align=center>
       无界安卓版 <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">https://git.io/v6836</a><br/>
-     （运行后输入：https://ogate.org）
+     运行后输入：https://ogate.org
       <!--安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
       电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/ogatew</a><br/>
       海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/-->
