@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://d1wti92ysjx2ud.cloudfront.net/?from=ogGitc">动态网址五</a><br/>
-      <a href="https://oggz0914200428.azureedge.net/?from=ogGitz">动态网址六</a><br/>
-      <a href="https://1829806659.oggnew.info/?from=ogGits">动态网址七</a><br/>
+      <a href="https://d2gg342dekf13x.cloudfront.net/?from=ogGitc">动态网址五</a><br/>
+      <a href="https://oggz06328688.azureedge.net/?from=ogGitz">动态网址六</a><br/>
+      <a href="https://1404290305.oggnew.info/?from=ogGits">动态网址七</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitcc">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitzz">动态网址三</a><br/>
