@@ -4,7 +4,8 @@
   </tr>
   <tr>
     <td align=center>网门 網門<br/>
-      欢迎来到固定网址页面，请收藏
+      欢迎来到固定网址页面，请收藏<br/>
+      本页面 https://github.com/ogate/ogate<br/>
     </td>
   </tr>
   <tr>
@@ -13,9 +14,9 @@
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitzz">动态网址二</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitcc">动态网址三</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitss">动态网址四</a><br/>
-      https://01681804851-azureedge-net/<br/>
-      https://d2e3mc930wrdyb-cloudfront-net/<br/>
-      https://1037103989-aovery-info/<br/>
+      https://01230518778-azureedge-net/<br/>
+      https://dsj6hjqw23r1u-cloudfront-net/<br/>
+      https://664398925-aovery-info/<br/>
       （请手工将-换成.）<br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
@@ -28,10 +29,11 @@
   </tr>
   <tr>
     <td align=center>
-      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+      无界安卓版 <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">https://git.io/v6836</a><br/>
+     （运行后输入：https://ogate.org）
+      <!--安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
       电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/ogatew</a><br/>
-      本页面 https://github.com/ogate/ogate<br/>
-      海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/>
+      海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/-->
     </td>
   </tr>
   <tr>
