@@ -9,9 +9,9 @@
   </tr>
   <tr>
     <td align=center>
-      https://drumfmcheyt5c-cloudfront-net/<br/>
+      https://d30vuyoc06hws5-cloudfront-net/<br/>
       https://oggz0767996720-azureedge-net/<br/>
-      https://2103759927-aovery-info/<br/>
+      https://811360878-aovery-info/<br/>
       （请手工将-换成.）<br/>
       <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGitaa">动态网址一</a><br/>
       <a href="https://s3.amazonaws.com/ogate/oGatec.htm?from=ogGitcc">动态网址二</a><br/>
