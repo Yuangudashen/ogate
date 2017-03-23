@@ -11,7 +11,7 @@
   <tr>
     <td align=center>大陆请点击进入<br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=ogGitaa1">动态网址一</a><br/>
-      <a href="https://s3.amazonaws.com/ogate/oGatezz.htm?from=ogGitaa2">动态网址二</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGatezz.htm?from=ogGitaa2">动态网址二</a><br/>
       微信须先点右上角，浏览器打开<br/>
       如打不开动态网址，请刷新多试<br/>
     </td>
