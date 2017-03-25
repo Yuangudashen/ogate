@@ -11,7 +11,8 @@
   <tr>
     <td align=center>大陆请点击进入<br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=ogGit">动态网址一</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGatezz.htm?from=ogGit2">动态网址二</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm?from=ogGit1">动态网址二</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGatezz.htm?from=ogGit2">动态网址三</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
