@@ -10,10 +10,10 @@
   </tr>
   <tr>
     <td align=center>大陆请点击进入<br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=ogGitaa1">动态网址一</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGatezz.htm?from=ogGitaa2">动态网址二</a><br/>
-      微信须先点右上角，浏览器打开<br/>
-      如打不开动态网址，请刷新多试<br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?from=ogGit">动态网址一</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGatezz.htm?from=ogGit2">动态网址二</a><br/>
+      微信如提示停止访问该网页，须<br/>
+      先点击右上角，选择浏览器打开<br/>
     </td>
   </tr>
   <tr>
@@ -23,11 +23,9 @@
   </tr>
   <tr>
     <td align=center>
-      无界安卓版 <a href="https://raw.githubusercontent.com/wujieliulan/download/master/um.apk">https://git.io/v6836</a><br/>
-     运行后输入 https://ogate.org
-      <!--安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
-      电脑版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogatew.zip">https://git.io/ogatew</a><br/>
-      海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/-->
+      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+      海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/>
+      无界安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/um.apk">https://git.io/v6836</a><br/>
     </td>
   </tr>
   <tr>
