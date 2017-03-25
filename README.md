@@ -23,9 +23,9 @@
   </tr>
   <tr>
     <td align=center>
-      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
       海外直连 <a href="https://ogate.org/?from=ogGito">https://ogate.org</a><br/>
-      无界安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/um.apk">https://git.io/v6836</a><br/>
+      无界安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/um.apk?og">https://git.io/v6836</a><br/>
     </td>
   </tr>
   <tr>
