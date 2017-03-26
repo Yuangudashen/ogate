@@ -18,8 +18,8 @@
     </td>
   </tr>
   <tr>
-    <td align=center>
-      安卓版（新） <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
+    <td align=center>请安装新版<br/>
+      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
     </td>
   </tr>
   <tr>
