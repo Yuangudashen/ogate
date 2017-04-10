@@ -22,7 +22,7 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=oGate">网门新闻</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=oGate">网门头条</a><br/>
     </td>
   </tr>
   <tr>
