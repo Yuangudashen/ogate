@@ -5,18 +5,18 @@
   <tr>
     <td align=center>网门 網門<br/>
       欢迎来到固定网址页面，请收藏<br/>
-      本页面 https://git.io/ogate<br/>
+      https://github.com/ogate/ogate<br/>
     </td>
   </tr>
   <tr>
-    <td align=center><br/>
+    <td align=center>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=ogGit">大陆请点击进入动态网址</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
   </tr>
   <tr>
-    <td align=center>请安装新版<br/>
+    <td align=center>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk?og">https://git.io/ogatea</a><br/>
     </td>
   </tr>
