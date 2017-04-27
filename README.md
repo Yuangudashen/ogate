@@ -11,7 +11,7 @@
   <tr>
     <td align=center>大陆请点击进入<br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/ogMove.htm">动态网址一</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?from=oGate2">动态网址二</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?oGate&from=oGate2">动态网址二</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
