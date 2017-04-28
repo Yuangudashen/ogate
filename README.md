@@ -9,15 +9,11 @@
     </td>
   </tr>
   <tr>
-    <td align=center>请点击进入《最热》<br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >动态网址一</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike" >动态网址二</a><br/>
-      请点击进入《最新》<br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >动态网址一</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate" >动态网址二</a><br/>
-      请点击进入《头条》<br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >动态网址一</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews" >动态网址二</a><br/>
+    <td align=center><br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >请点击进入《最热》</a><br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >请点击进入《最新》</a><br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >请点击进入《头条》</a><br/>
+      <!--a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike" >动态网址二</a><br/-->
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
