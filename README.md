@@ -9,11 +9,15 @@
     </td>
   </tr>
   <tr>
-    <td align=center>大陆请点击进入<br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?oGate&from=oGate1" >动态网址一</a><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate2">动态网址二</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?oGate&from=oGate3" >动态网址三</a><br/>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate&from=oGate4">动态网址四</a><br/>
+    <td align=center>请点击进入《最热》<br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike&from=oGate11" >动态网址一</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=oGate12" >动态网址二</a><br/>
+      请点击进入《最新》<br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate21" >动态网址一</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate&from=oGate22" >动态网址二</a><br/>
+      请点击进入《头条》<br/>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=oGate31" >动态网址一</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=oGate32" >动态网址二</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
@@ -21,11 +25,6 @@
   <tr>
     <td align=center>
       安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align=center>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=oGate">网门头条</a><br/>
     </td>
   </tr>
   <tr>
