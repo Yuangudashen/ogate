@@ -9,7 +9,7 @@
     </td>
   </tr>
   <tr>
-    <td align=center><br/>
+    <td align=center>
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >请点击进入《最热》</a><br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >请点击进入《最新》</a><br/>
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >请点击进入《头条》</a><br/>
