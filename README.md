@@ -10,10 +10,9 @@
   </tr>
   <tr>
     <td align=center>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >请点击进入《最热》</a><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >请点击进入《最新》</a><br/>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >请点击进入《头条》</a><br/>
-      <!--a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike" >动态网址二</a><br/-->
+      <a href="http://s3-ap-southeast-1.amazonaws.com/ogatei/oGate.htm?ogLike" >请点击进入《最热》</a><br/>
+      <a href="http://s3-ap-southeast-1.amazonaws.com/ogatei/oGate.htm?ogLate" >请点击进入《最新》</a><br/>
+      <a href="http://s3-ap-southeast-1.amazonaws.com/ogatei/oGate.htm?ogNews" >请点击进入《头条》</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
