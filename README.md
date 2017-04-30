@@ -9,13 +9,13 @@
     </td>
   </tr>
   <tr>
-    <td align=center>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >请点击进入《最热》</a>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >自动</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >请点击进入《最新》</a>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >自动</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >请点击进入《头条》</a>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >自动</a><br/>
+    <td align=center>请点击进入动态网址<br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike">《最热》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike" >《最热》自动</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate">《最新》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate" >《最新》自动</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews">《头条》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews" >《头条》自动</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
