@@ -16,6 +16,8 @@
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate" >《最新》自动</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=oGate">《头条》手动</a>
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=oGate" >《头条》自动</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogSite&from=oGate">《网站》手动</a>
+      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogSite&from=oGate" >《网站》自动</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
