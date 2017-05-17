@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td align=center>请点击进入动态网址<br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike&from=oGate">《最热》手动</a>
-      <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike&from=oGate" >《最热》自动</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=oGate">《最热》手动</a>
+      <a href="http://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=oGate" >《最热》自动</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate">《最新》手动</a>
       <a href="http://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate" >《最新》自动</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=oGate">《头条》手动</a>
