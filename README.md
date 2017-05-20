@@ -14,15 +14,12 @@
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike&from=oGate">《最热》一</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLike&from=oGate">《最热》二</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogLike&from=oGate">《最热》三</a><br/>
-
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate">《最新》一</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate&from=oGate">《最新》二</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogLate&from=oGate">《最新》三</a><br/>
-
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=oGate">《头条》一</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=oGate">《头条》二</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogNews&from=oGate">《头条》三</a><br/>
-
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogSite&from=oGate">《网站》一</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogSite&from=oGate">《网站》二</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogSite&from=oGate">《网站》三</a><br/>
