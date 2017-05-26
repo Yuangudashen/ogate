@@ -11,8 +11,8 @@
   </tr>
   <tr>
     <td align=center>请点击进入动态网址<br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike&from=oGate">最热</a>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?ogLike&from=oGate">最热</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLike&from=oGate">最热</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogLike&from=oGate">最热</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate">最新</a>
       <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogLate&from=oGate">最新</a>
