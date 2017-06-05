@@ -20,7 +20,7 @@
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogSite&from=oGate">《网站》</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogSite&from=oGate">《网站》</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogST.aspx&from=oGate">《三退》</a>
-      <a href="https://santui.hashcube.com/?ogST.aspx&from=oGate">《三退》</a><br/>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogST.aspx&from=oGate">《三退》</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
