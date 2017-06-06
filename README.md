@@ -11,23 +11,11 @@
   </tr>
   <tr>
     <td align=center>请点击进入动态网址<br/>
-      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm">入口</a>
-      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm">入口</a>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm">入口</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm">入口</a>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm">入口</a><br/>
+      <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm">入口</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm">入口</a><br/>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm">入口</a><br/>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm">入口</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate">《最新》</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogLate&from=oGate">《最新》</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?ogLate&from=oGate">《最新》</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogNews&from=oGate">《头条》</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogNews&from=oGate">《头条》</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?ogNews&from=oGate">《头条》</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogSite&from=oGate">《网站》</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogSite&from=oGate">《网站》</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?ogSite&from=oGate">《网站》</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogST.aspx&from=oGate">《三退》</a>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogST.aspx&from=oGate">《三退》</a>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?ogST.aspx&from=oGate">《三退》</a><br/>
       微信如提示停止访问该网页，须<br/>
       先点击右上角，选择浏览器打开<br/>
     </td>
