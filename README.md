@@ -11,10 +11,11 @@
   </tr>
   <tr>
     <td align=center>请点击进入动态网址<br/>
-      <a href="https://s3.amazonaws.com/ogate/oGate.htm">入口一</a><br/>
-      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm">入口二</a><br/>
-      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm">入口三</a><br/>
-      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm">入口四</a><br/>
+      <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm">入口</a><br/>
+      <a href="https://s3.amazonaws.com/ogate/oGate.htm">入口</a><br/>
+      <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm">入口</a><br/>
+      <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm">入口</a><br/>
+      <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm">入口</a><br/>
       <a href="https://s3.ap-northeast-2.amazonaws.com/ogates/oGate.htm?ogLate&from=oGate">《最新》</a>
       <a href="https://s3-ap-southeast-2.amazonaws.com/ogatey/oGate.htm?ogLate&from=oGate">《最新》</a>
       <a href="https://s3.ca-central-1.amazonaws.com/ogatec/oGate.htm?ogLate&from=oGate">《最新》</a><br/>
@@ -33,7 +34,7 @@
   </tr>
   <tr>
     <td align=center>
-      安卓版 <a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
+      下载安卓版，更快更方便<br/><a href="https://raw.githubusercontent.com/ogate/up/master/ogate.apk">https://git.io/ogatea</a><br/>
     </td>
   </tr>
   <tr>
