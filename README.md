@@ -10,7 +10,7 @@
     </td>
   </tr>
   <tr>
-    <td align=center>请点击不同入口，进入动态网址<br/>
+    <td align=center>请尝试不同入口，进入动态网址<br/>
       <a href="https://cdn.rawgit.com/ogate/up/master/oGate.htm?from=oGate">入口</a>
       <a href="https://s3.eu-west-2.amazonaws.com/ogatel/oGate.htm?from=oGate">入口</a>
       <a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?from=oGate">入口</a><br/>
